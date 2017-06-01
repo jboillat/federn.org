@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<federn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="federn.xsd">
+  <seite de="Home" fr="Home" en="Home" datei="index" />
+  <seite de="Bestimmung" fr="Identification" en="Identification" datei="bestimmung" />
+  <seite de="Literatur" fr="Bibliographie" en="Bibliography" datei="literatur" />
+  <seite de="Service" fr="Service" en="Service" datei="service" />
+  <seite de="Hilfe" fr="Aide" en="Help" datei="hilfe" />
+  <neuigkeiten>
+    <text lang="de">Federn.org goes West-Africa!</text>
+    <text lang="de">
+      Seit Juni 2017 haben wir die Federn von Blaufischer, Blaubauchracke, Elfennektarvogel, Piapia, Pirolsänger, Rotschnabeltoko, Schmetterlingsfink, Spornkiebitz und Spornkuckuck aufgeschaltet.
+    </text>
+    <text lang="fr">Federn.org goes West-Africa!</text>
+    <text lang="fr">
+      Juin 2017, nous avons publié les plumes du martin-pêcheur à poitrine bleue, du rollier à ventre bleu, du souimanga à longue queue, du piac-piac, du moho à tête noire, du petit calao à bec rouge, du cordonbleu à joues rouges, du vanneau éperonné et du coucal du Sénégal.
+      </text>
+    <text lang="en">Federn.org goes West-Africa!</text>
+    <text lang="en">
+      June 2017, the feathers of the blue-breasted kingfisher, the blue-bellied roller, the beautiful sunbird, the piapiac, the oriol warbler, the red-billed hornbill, the red-cheeked cordonblue, the  spur-winged plover and the senegal coucal have been published.
+    </text>
+    <neu de="Blaufischer" fr="Martin-pêcheur à poitrine bleue" en="Blue-breasted kinkfisher" aus="GM" />
+    <neu de="Blaubauchracke" fr="Rollier à ventre bleu" en="Blue-bellied roller" aus="GM" />
+    <neu de="Elfennektarvogel" fr="Souimanga à longue queue" en="Beautiful sunbird" aus="GM" />
+    <neu de="Piapia" fr="Piac-piac" en="Piapiac" aus="GM" />
+    <neu de="Pirolsänger" fr="Moho à tête noire" en="Oriol warbler" aus="GM" />
+    <neu de="Rotschnabeltoko" fr="Petit calao à bec rouge" en="Red-billed hornbill" aus="GM" />
+    <neu de="Schmetterlingsfink" fr="Cordonbleu à joues rouges" en="Red-cheeked cordonblue" aus="GM" />
+    <neu de="Spornkiebitz" fr="Vanneau éperonné" en="Spur-winged plover" aus="GM" />
+    <neu de="Spornkuckuck" fr="Coucal du Sénégal" en="Senegal coucal" aus="GM" />
+  </neuigkeiten>
+
+  <ordnung de="Taubenvögel" fr="Columbiformes" en="Pigeons" la="Columbiformes" id="Columbiformes">
+    <familie de="Tauben" fr="Columbidés" en="Doves and Pigeons" la="Columbidae" id="Columbidae">
+      <vogel de="Ringeltaube" fr="Pigeon ramier" en="Woodpigeon" la="Columba palumbus" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Ringeltaube_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Ringeltaube_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Ringeltaube_AS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="10" file="Ringeltaube_gAD_u" />
+      </vogel>
+      <vogel de="Hohltaube" fr="Pigeon colombin" en="Stock Dove" la="Columba oenas" fundort="Schwarzwasserbrücke" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Hohltaube_ASa_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Hohltaube_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Hohltaube_HSi_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Hohltaube_S_u" />
+      </vogel>
+      <vogel de="Turteltaube" fr="Tourterelle des bois" en="Turtle Dove" la="Streptopelia turtur" brutin="CH" fundort="Temerin" jahreszeit="S" land="RS" orientierung="Q">
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Turteltaube_ASa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Turteltaube_HSi_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="5" file="Turteltaube_Deckfeder_u" />
+      </vogel>
+      <vogel de="Türkentaube" fr="Tourterelle turque" en="Collared Dove" la="Streptopelia decaocto" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="15" file="Tuerkentaube_Si_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Tuerkentaube_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Tuerkentaube_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Tuerkentaube_AS_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <!-- ordnung de="Papageien" fr="" en="" la="Psittaciformes" id="">
+  <familie de="Eigentliche Papageien" fr="" en="" la="Psittacidae" id="">
+    <vogel de="" fr="" en="" la="" brutin="" fundort="" jahreszeit="" land="" orientierung="">
+      <feder name="" geschlecht="" juvenil="" groesse="" file="">
+     </feder>
+    </vogel>
+  </familie>
+</ordnung -->
+  <ordnung de="Turakos" fr="Musophagiformes" en="Musophagiformes" la="Musophagiformes" id="Musophagiformes">
+    <familie de="Turakos" fr="Musophagidés" en="Turacos" la="Musophagidae" id="Musophagidae">
+      <vogel de="Schildturako" fr="Touraco violet" en="Violet Turaco" la="Musophaga violacea" brutin="GM" fundort="Tanjie&amp;Abuko" land="GM" jahreszeit="FW" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Schildturako_AS_u" />
+        <feder name="Asa" geschlecht="u" juvenil="n" groesse="20" file="Schildturako_ASa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Schildturako_HS_u" />
+        <feder name="Hsa" geschlecht="u" juvenil="n" groesse="15" file="Schildturako_HSa_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="25" file="Schildturako_S_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Sperlingsvögel" fr="Passériformes" en="Passeriformes" la="Passeriformes" id="Passeriformes">
+    <familie de="Mauerläufer" fr="Sittidés" en="Sitidae" la="Tichodromadidae" id="Tichodromadidae">
+      <vogel de="Mauerläufer" fr="Tichodrome échelette" en="Wallcreeper" la="Tichodroma muraria" fundort="Simmental BE &amp; Col de Bretolet Vs &amp; von David, France" land="CH &amp; FR" jahreszeit="SH" brutin="CH" orientierung="Q">
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="10" file="Mauerlaeufer_ASi_u" />
+        <feder name="HSi" geschlecht="m" juvenil="n" groesse="10" file="Mauerlaeufer_HSi_m" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Mauerlaeufer_Schirm_u" />
+      </vogel>
+    </familie>
+    <familie de="Baumläufer" fr="Grimperaux" en="Certhiidae" la="Certhiidae" id="Certhiidae">
+      <vogel de="Gartenbaumlaeufer" fr="Grimpereau des jardins" en="Short-toed Treecreeper" la="Certhia brachydactyla" fundort="Bern BE" land="CH" jahreszeit="SH" brutin="CH" orientierung="H">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Gartenbaumlaeufer_AS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="5" file="Gartenbaumlaeufer_HSa_u" />
+      </vogel>
+      <vogel de="Waldbaumlaeufer" fr="Grimpereau des bois" en="Eurasian Treecreeper" la="Certhia familiaris" fundort="Muri, BE" land="CH" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="5" file="Waldbaumlaeufer_Alula_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Waldbaumlaeufer_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Waldbaumlaeufer_ASa_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Waldbaumlaeufer_gAD_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="10" file="Waldbaumlaeufer_HS10_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Waldbaumlaeufer_HSa_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Waldbaumlaeufer_Sa_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Waldbaumlaeufer_Si_u" />
+      </vogel>
+    </familie>
+    <familie de="Ammern" fr="Bruants" en="Emberizidae" la="Emberizidae" id="Emberizidae">
+      <vogel de="Goldammer" fr="Bruant jaune" en="Yellowhammer" la="Emberiza citrinella" fundort="Bern, Gurten BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Goldammer_S1_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Goldammer_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Goldammer_AS_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Goldammer_S6_u" />
+        <feder name="S5" geschlecht="u" juvenil="n" groesse="10" file="Goldammer_S5_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="5" file="Goldammer_Brust_u" />
+      </vogel>
+      <vogel de="Rohrammer" fr="Bruant des roseaux" en="Reed Bunting" la="Emberiza  schoeniclus" fundort="Magadino, Ti" land="CH" jahreszeit="F" brutin="CH" orientierung="H">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Rohrammer_S6_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Rohrammer_AS_u" />
+      </vogel>
+      <vogel de="Grauammer" fr="Bruant proyer" en="Corn Bunting" la="Emberiza  calandra" fundort="Pasewalk &amp;Temerin" land="DE &amp; RS" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Grauammer_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Grauammer_AS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Grauammer_gAD_u" />
+      </vogel>
+    </familie>
+    <familie de="Stelzen" fr="Motacillidés" en="Motacillidae" la="Motacillidae" id="Motacillidae">
+      <vogel de="Bergpieper" fr="Pipit spioncelle" en="Water Pipit" la="Anthus spinoletta" fundort="Bern BE" land="CH" jahreszeit="W" brutin="CH" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Bergpieper_HS_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="10" file="Bergpieper_ASi_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Bergpieper_ASa_u" />
+      </vogel>
+      <vogel de="Wiesenpieper" fr="Pipit farlouse" en="Meadow Pipit" la="Anthus pratensis" fundort="Col de Bretolet, Vs" land="CH" jahreszeit="H" brutin="CH" orientierung="Q">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Wiesenpieper_S6_u" />
+        <feder name="S4" geschlecht="u" juvenil="n" groesse="10" file="Wiesenpieper_S4_u" />
+        <feder name="OSD" geschlecht="u" juvenil="n" groesse="5" file="Wiesenpieper_OSD_u" />
+      </vogel>
+      <vogel de="Schafstelze" fr="Bergeronette printanière" en="Yellow Wagtail" la="Motacilla flava" fundort="Célian" land="DE" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Schafstelze_Sa_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Schafstelze_Si_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Schafstelze_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="5" file="Schafstelze_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Schafstelze_AS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Schafstelze_gAD_u" />
+      </vogel>
+      <vogel de="Bachstelze" fr="Bergeronnette grise" en="White Wagtail" la="Motacilla alba" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="Flügel und Schwanz" geschlecht="u" juvenil="n" groesse="15" file="Bachstelze_Fluegel_und_Schwanz_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Bachstelze_S6_u" />
+        <feder name="S3" geschlecht="u" juvenil="n" groesse="10" file="Bachstelze_S3_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Bachstelze_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Bachstelze_AS_u" />
+        <feder name="ASi" geschlecht="u" juvenil="j" groesse="10" file="Bachstelze_ASi_u_j" />
+      </vogel>
+      <vogel de="Bergstelze" fr="Bergeronnette des ruisseaux" en="Grey Wagtail" la="Motacilla cinerea" fundort="Bern BE" land="CH" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Bergstelze_S_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="15" file="Bergstelze_S6_u" />
+        <feder name="Flügel und Schwanz" geschlecht="u" juvenil="n" groesse="15" file="Bergstelze_Fluegel_und_Schwanz_u" />
+      </vogel>
+    </familie>
+    <familie de="Zweigsänger" fr="Sylviidés" en="Sylviidae" la="Sylviidae" id="Sylviidae">
+      <vogel de="Gartengrasmücke" fr="Fauvette des jardins" en="Garden Warbler" la="Sylvia borin" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Gartengrasmuecke_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Gartengrasmuecke_AS_u" />
+      </vogel>
+      <vogel de="Mönchsgrasmücke" fr="Fauvette à tête noire" en="Blackcap" la="Sylvia atricapilla" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Moenchsgrasmuecke_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Moenchsgrasmuecke_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Moenchsgrasmuecke_AS_u" />
+      </vogel>
+      <vogel de="Samtkopfgrasmücke" fr="Fauvette mélanocéphale" en="Sardinian Warbler" la="Sylvia melanocephala" fundort="Südfrankreich von Res Buehler" land="FR" jahreszeit="F" brutin="F &amp;" orientierung="Q">
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="5" file="Samtkopfgrasmuecke_AS_m" />
+        <feder name="gAD" geschlecht="m" juvenil="n" groesse="5" file="Samtkopfgrasmuecke_gAD_m" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="10" file="Samtkopfgrasmuecke_HSa_m" />
+        <feder name="Kopf" geschlecht="m" juvenil="n" groesse="5" file="Samtkopfgrasmuecke_Kopf_m" />
+        <feder name="Sa" geschlecht="m" juvenil="n" groesse="10" file="Samtkopfgrasmuecke_Sa_m" />
+      </vogel>
+      <vogel de="Dorngrasmücke" fr="Fauvette grisette" en="Common Whitethroat" la="Sylvia communis" fundort="von Célian Progin" land="CH" jahreszeit="S" brutin="CH;" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Dorngrasmuecke_AS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Dorngrasmuecke_HSa_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Dorngrasmuecke_S_u" />
+      </vogel>
+      <vogel de="Drosselrohrsänger" fr="Rousserolle turdoide" en="Great Reed Warbler" la="Acrocephalus arundinaceus" fundort="Neuenburgersee Ne" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Drosselrohrsaenger_HS_u" />
+        <feder name="Koerperfeder" geschlecht="u" juvenil="n" groesse="5" file="Drosselrohrsaenger_Koerperfeder_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Drosselrohrsaenger_S_u" />
+      </vogel>
+      <vogel de="Teichrohrsänger" fr="Rousserolle effarvatte" en="Reed Warbler" la="Acrocephalus scirpaceus" fundort="Leuk Vs" land="CH" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Teichrohrsaenger_S_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="5" file="Teichrohrsaenger_HS10_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="5" file="Teichrohrsaenger_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Teichrohrsaenger_AS_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Teichrohrsaenger_USD_u" />
+      </vogel>
+      <vogel de="Feldschwirl" fr="Locustelle tacheté" en="Grasshopper  Warbler" la="Locustella naevia" fundort="Präparat Schweiz" land="CH" jahreszeit="H" brutin="CH" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Feldschwirl_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Feldschwirl_AS_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="5" file="Feldschwirl_Deckfeder_u" />
+      </vogel>
+      <vogel de="Zilpzalp" fr="Pouillot véloce" en="Chiffchaff" la="Phylloscopus  collybita" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="5" file="Zilpzalp_Sa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="5" file="Zilpzalp_HS_u" />
+      </vogel>
+      <vogel de="Pirolsaenger" fr="Moho à tete noire" en="Oriol Warbler" la="Hypergerus atriceps" fundort="Tujereng" land="GM" jahreszeit="H" brutin="GM" orientierung="Q">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="5" file="Pirolsaenger_S6_u" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Pirolsaenger_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Pirolsaenger_S_u" />
+        <!-- feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Pirolsaenger_HSa_u" / -->
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Pirolsaenger_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Pirolsaenger_AS_u" />
+        <feder name="Hals" geschlecht="u" juvenil="n" groesse="5" file="Pirolsaenger_Hals_u" />
+        <feder name="Bauch" geschlecht="u" juvenil="n" groesse="5" file="Pirolsaenger_Bauch_u" />
+      </vogel>
+    </familie>
+    <familie de="Goldhähnchen" fr="Roitelets" en="Regulidae" la="Regulidae" id="Regulidae">
+      <vogel de="Wintergoldhähnchen" fr="Roitelet huppé" en="Goldcrest" la="Regulus regulus" fundort="Erlenbach i. S. BE &amp; Bern BE" land="CH" jahreszeit="FS" brutin="CH" orientierung="H">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Wintergoldhaehnchen_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Wintergoldhaehnchen_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="5" file="Wintergoldhaehnchen_HSa_u" />
+      </vogel>
+    </familie>
+    <familie de="Bülbüls" fr="Pycnonotidés" en="Bulbuls" la="Pycnonotidae" id="Pycnonotidae">
+      <vogel de="Bülbül" fr="Bulbul commun" en="Common bulbul" la="Pycnonotus barbatus" fundort="Bato Kunku" land="GM" jahreszeit="F" brutin="GM u.a." orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Buelbuel_Si_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Buelbuel_Sa_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Buelbuel_HSa_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="10" file="Buelbuel_ASi_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Buelbuel_ASa_u" />
+      </vogel>
+    </familie>
+    <familie de="Schwalben" fr="Hirundinidés" en="Hirundinidae" la="Hirundinidae" id="Hirundinidae">
+      <vogel de="Rauchschwalbe" fr="Hirondelle de cheminée" en="Swallow" la="Hirundo rustica" fundort="Hinterkappelen, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S6" geschlecht="m" juvenil="n" groesse="15" file="Rauchschwalbe_S6_m" />
+        <feder name="S6" geschlecht="u" juvenil="j" groesse="10" file="Rauchschwalbe_S6_u_j" />
+        <feder name="S5" geschlecht="m" juvenil="n" groesse="10" file="Rauchschwalbe_S5_m" />
+        <feder name="S4" geschlecht="m" juvenil="n" groesse="10" file="Rauchschwalbe_S4_m" />
+        <feder name="S2" geschlecht="m" juvenil="n" groesse="10" file="Rauchschwalbe_S2_m" />
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="10" file="Rauchschwalbe_S1_m" />
+        <feder name="HS9" geschlecht="u" juvenil="n" groesse="15" file="Rauchschwalbe_HS9_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Rauchschwalbe_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Rauchschwalbe_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Rauchschwalbe_ASa_u" />
+      </vogel>
+      <vogel de="Mehlschwalbe" fr="Hirondelle de fenetre" en="House Martin" la="Delichon urbica" fundort="Spiez, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="j" groesse="10" file="Mehlschwalbe_S_u_j" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Mehlschwalbe_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="j" groesse="10" file="Mehlschwalbe_AS_u_j" />
+      </vogel>
+      <vogel de="Felsenschwalbe" fr="Hirondelle de rochers" en="Craig Martin" la="Ptyonoprogne rupestris" fundort="Bern, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Felsenschwalbe_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Felsenschwalbe_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Felsenschwalbe_AS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Felsenschwalbe_HSa_u" />
+      </vogel>
+      <vogel de="Uferschwalbe" fr="Hirondelle de rivage" en="Sand Martin" la="Riparia riparia" fundort="Temerin" land="RS" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Uferschwalbe_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Uferschwalbe_HS_u" />
+      </vogel>
+    </familie>
+    <familie de="Würger" fr="Lanidés" en="Lanidae" la="Lanidae" id="Lanidae">
+      <vogel de="Rotkopfwürger" fr="Pie-grièche à tête rousse" en="Woodchat Shrike" la="Lanius senator" fundort="Extremadura &amp; Marrakesh" land="ES &amp;MA" jahreszeit="F" brutin="ES &amp; GR" orientierung="Q">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Rotkopfwuerger_Sa_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Rotkopfwuerger_Si_u" />
+        <feder name="HSi" geschlecht="u" juvenil="j" groesse="10" file="Rotkopfwuerger_HSi_u_j" />
+        <feder name="HSa" geschlecht="u" juvenil="j" groesse="10" file="Rotkopfwuerger_HSa_u_j" />
+      </vogel>
+      <vogel de="Neuntöter" fr="Pie-grièche écorcheur" en="Red-backed Shrike" la="Lanius collurio" fundort="Münster &amp; Temerin" land="DE &amp; RS" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="Sa" geschlecht="m" juvenil="n" groesse="10" file="Neuntoeter_Sa_m" />
+        <feder name="Sa" geschlecht="w" juvenil="n" groesse="10" file="Neuntoeter_Sa_w" />
+        <feder name="HS" geschlecht="w" juvenil="n" groesse="10" file="Neuntoeter_HS_w" />
+        <feder name="Schirm" geschlecht="w" juvenil="n" groesse="10" file="Neuntoeter_Schirm_w" />
+      </vogel>
+      <vogel de="Gelbschnabelwuerger" fr="Corvinelle à bec jaune" en="Yellow-billed  Shrike" la="Corvinella corvina" fundort="Bato Kunku" land="GM" jahreszeit="F" brutin="GM" orientierung="Q">
+        <feder name="S2" geschlecht="u" juvenil="n" groesse="20" file="Gelbschnabelwuerger_S2_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Gelbschnabelwuerger_Sa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Gelbschnabelwuerger_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Gelbschnabelwuerger_AS_u" />
+        <feder name="Asa" geschlecht="u" juvenil="j" groesse="10" file="Gelbschnabelwuerger_ASa_u_juv" />
+      </vogel>
+    </familie>
+    <familie de="Krähen" fr="Corvidés" en="Corvidae" la="Corvidae" id="Corvidae">
+      <vogel de="Eichelhäher" fr="Geai des chênes" en="Jay" la="Garrulus glandarius" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Eichelhaeher_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Eichelhaeher_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="20" file="Eichelhaeher_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Eichelhaeher_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Eichelhaeher_ASa_u" />
+        <feder name="gHD" geschlecht="u" juvenil="n" groesse="10" file="Eichelhaeher_gHD_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="10" file="Eichelhaeher_gAD_u" />
+      </vogel>
+      <vogel de="Tannenhäher" fr="Casse-noix moucheté" en="Nutcracker" la="Nucifraga caryocatactes" fundort="Zeneggen, Vs" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Tannenhaeher_S_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Tannenhaeher_HS10_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Tannenhaeher_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Tannenhaeher_AS_u" />
+      </vogel>
+      <vogel de="Dohle" fr="Choucas des tours" en="Jackdaw" la="Corvus monedula" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Dohle_Sa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Dohle_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Dohle_Schirm_u" />
+      </vogel>
+      <vogel de="Elster" fr="Pie bavarde" en="Magpie" la="Pica pica" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Elster_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Elster_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Elster_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Elster_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="20" file="Elster_ASa_u" />
+      </vogel>
+      <vogel de="Blauelster" fr="Pie bleue" en="Azure-winged Magpie" la="Cyanopica cyana" fundort="Monfragüe" land="ES" jahreszeit="S" brutin="ES &amp; PT" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Blauelster_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Blauelster_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Blauelster_AS_u" />
+      </vogel>
+      <vogel de="Rabenkrähe" fr="Corneille noire" en="Carrion Crow" la="Corvus corone corone" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Rabenkraehe_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Rabenkraehe_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Rabenkraehe_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Rabenkraehe_AS_u" />
+        <feder name="AS Teilalbino" geschlecht="u" juvenil="n" groesse="20" file="Rabenkraehe_AS_Teilalbino_u" />
+      </vogel>
+      <vogel de="Alpendohle" fr="Chocard des alpes" en="Alpine Chough" la="Pyrrhocorax graculus" fundort="Gemmi BE/Vs" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Alpendohle_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Alpendohle_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Alpendohle_AS_u" />
+      </vogel>
+      <vogel de="Kolkrabe" fr="Grand Corbeau" en="Raven" la="Corvus corax" fundort="Deponie Köniztal, Köniz/Kehrsatz BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Kolkrabe_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Kolkrabe_HS_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="20" file="Kolkrabe_HD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Kolkrabe_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="25" file="Kolkrabe_S_u" />
+      </vogel>
+      <vogel de="Piapia" fr="Piac-piac" en="Piapiac" la="Ptilostomus afer" fundort="Sukuta" land="GM" jahreszeit="H" brutin="GM" orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="25" file="Piapia_Si_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Piapia_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Piapia_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Piapia_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Piapia_AS_u" />
+      </vogel>
+    </familie>
+    <familie de="Pirole" fr="Loriots" en="Oriols" la="Oriolidae" id="Oriolidae">
+      <vogel de="Pirol" fr="Loriot d'Europe" en="Golden Oriole" la="oriolus oriolus" fundort="Amizmiz" land="MA" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="w" juvenil="n" groesse="15" file="Pirol_HS_w" />
+        <feder name="Sa" geschlecht="w" juvenil="n" groesse="15" file="Pirol_Sa_w" />
+        <feder name="USD" geschlecht="w" juvenil="n" groesse="10" file="Pirol_USD_w" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="15" file="Pirol_AS_w" />
+        <feder name="S2" geschlecht="w" juvenil="n" groesse="15" file="Pirol_S2_w" />
+        <feder name="S" geschlecht="m" juvenil="n" groesse="10" file="Pirol_S_m" />
+      </vogel>
+    </familie>
+    <familie de="Sperlinge" fr="Tisserins" en="Passeridae" la="Passeridae" id="Passeridae">
+      <vogel de="Haussperling" fr="Moineau domestique" en="House Sparrow" la="Passer domesticus" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Haussperling_S6_u" />
+        <feder name="S3" geschlecht="u" juvenil="n" groesse="10" file="Haussperling_S3_u" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Haussperling_S1_u" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="10" file="Haussperling_HSa_m" />
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="10" file="Haussperling_HS_m" />
+        <feder name="ASi" geschlecht="m" juvenil="n" groesse="10" file="Haussperling_ASi_m" />
+        <feder name="ASa" geschlecht="m" juvenil="n" groesse="10" file="Haussperling_ASa_m" />
+        <feder name="g Armdecke" geschlecht="m" juvenil="n" groesse="10" file="Haussperling_g_Armdecke_m" />
+      </vogel>
+      <vogel de="Feldsperling" fr="Moineau friquet" en="Tree Sparrow" la="Passer montanus" fundort="Thurnen BE &amp; Temerin" land="CH &amp; RS" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Feldsperling_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="5" file="Feldsperling_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Feldsperling_AS_u" />
+      </vogel>
+    </familie>
+    <familie de="Prachtfinken" fr="Estrildidés" en="Estrildidae" la="Estrildidae" id="Estrildidae">
+      <vogel de="Schmetterlingsfink" fr="Cordonbleu à joues rouges" en="Red-cheeked Cordonblue" la="Uraeginthus bengalus" brutin="GM" fundort="Bato Kunku" land="GM" jahreszeit="H" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="5" file="Schmetterlingsfink_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Schmetterlingsfink_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="5" file="Schmetterlingsfink_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="5" file="Schmetterlingsfink_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Schmetterlingsfink_AS_u" />
+      </vogel>
+    </familie>
+    <familie de="Webervögel" fr="Ploceidés" en="Ploceidae" la="Ploceidae" id="Ploceidae">
+      <vogel de="Dorfweber" fr="Tisserin gendarme" en="Village Weaver" la="Ploceus cucullatus" brutin="GM" fundort="Janbangjelly&amp;Kololi" land="GM" jahreszeit="HW" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Dorfweber_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Dorfweber_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Dorfweber_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Dorfweber_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Dorfweber_ASa_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Dorfweber_gAD_u" />
+        <feder name="Brust" geschlecht="m" juvenil="n" groesse="5" file="Dorfweber_Brust_m" />
+      </vogel>
+    </familie>
+    <familie de="Lerchen" fr="Alaudidés" en="Alaudidae" la="Alaudidae" id="Alaudidae">
+      <vogel de="Feldlerche" fr="Alouette des champs" en="Skylark" la="Alauda arvensis" fundort="Extremadura" land="ES" jahreszeit="W" brutin="CH" orientierung="Q">
+        <feder name="S4" geschlecht="u" juvenil="n" groesse="10" file="Feldlerche_S4_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Feldlerche_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Feldlerche_ASa_u" />
+        <feder name="Flügel und Schwanz" geschlecht="u" juvenil="n" groesse="15" file="Feldlerche_Fluegel_und_Schwanz_u" />
+      </vogel>
+    </familie>
+    <familie de="Fliegenschnäpper" fr="Gobemouche" en="Musicapidae" la="Musicapidae" id="Musicapidae">
+      <vogel de="Grauschnäpper" fr="Gobemouche gris" en="Spotted Flycatcher" la="Muscicapa striata" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Grauschnaepper_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Grauschnaepper_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Grauschnaepper_ASa_u" />
+      </vogel>
+      <vogel de="Trauerschnäpper" fr="Gobemouche noir" en="Pied Flycatcher" la="Ficedula hypoleuca" fundort="Bern BE" land="CH" jahreszeit="SH" brutin="CH" orientierung="Q">
+        <feder name="S4" geschlecht="u" juvenil="n" groesse="10" file="Trauerschnaepper_S4_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Trauerschnaepper_S6_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Trauerschnaepper_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Trauerschnaepper_AS_u" />
+      </vogel>
+    </familie>
+    <familie de="Drosseln" fr="Turdidés" en="Turdidae" la="Turdidae" id="Turdidae">
+      <vogel de="Wacholderdrossel" fr="Grive litorne" en="Fieldfare" la="Turdus pilaris" fundort="Erlenbach i. S., BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="15" file="Wacholderdrossel_S6_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Wacholderdrossel_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Wacholderdrossel_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Wacholderdrossel_AS_u" />
+      </vogel>
+      <vogel de="Ringamsel" fr="Merle à plastron" en="Ring Ouzel" la="Turdus torquatus" fundort="ob Erlenbach, Berner Oberland BE" land="CH" jahreszeit="F" brutin="CH" orientierung="H">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Ringamsel_Si_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Ringamsel_HS_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Ringamsel_USD_u" />
+      </vogel>
+      <vogel de="Amsel" fr="Merle noir" en="Blackbird" la="Turdus merula" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="15" file="Amsel_S1_m" />
+        <feder name="S" geschlecht="m" juvenil="n" groesse="15" file="Amsel_S_m" />
+        <feder name="S6" geschlecht="m" juvenil="n" groesse="15" file="Amsel_S6_m" />
+        <feder name="HS2" geschlecht="m" juvenil="n" groesse="15" file="Amsel_HS2_m" />
+        <feder name="HSi" geschlecht="m" juvenil="n" groesse="15" file="Amsel_HSi_m" />
+        <feder name="ASi" geschlecht="m" juvenil="n" groesse="15" file="Amsel_ASi_m" />
+        <feder name="ASa" geschlecht="m" juvenil="n" groesse="15" file="Amsel_ASa_m" />
+        <feder name="S1" geschlecht="w" juvenil="n" groesse="15" file="Amsel_S1_w" />
+        <feder name="HSi" geschlecht="w" juvenil="n" groesse="15" file="Amsel_HSi_w" />
+        <feder name="ASa" geschlecht="w" juvenil="n" groesse="15" file="Amsel_ASa_w" />
+      </vogel>
+      <vogel de="Singdrossel" fr="Grive musicienne" en="Song Trush" la="Turdus philomelus" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Singdrossel_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Singdrossel_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Singdrossel_HSa_u" />
+      </vogel>
+      <vogel de="Rotdrossel" fr="Grive mauvis" en="Redwing" la="turdus iliacus" brutin="SE" fundort="temerin" jahreszeit="W" land="RS" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Rotdrossel_HS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Rotdrossel_S_u" />
+        <feder name="Unterflügel" geschlecht="u" juvenil="n" groesse="5" file="Rotdrossel_Unterfluegel_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Rotdrossel_USD_u" />
+      </vogel>
+      <vogel de="Misteldrossel" fr="Grive draine" en="Mistle Trush" la="Turdus viscivorus" fundort="Bern, Oberland" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Misteldrossel_HSi_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Misteldrossel_HSa_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="15" file="Misteldrossel_S6_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Misteldrossel_AS_u" />
+      </vogel>
+      <vogel de="Braunkehlchen" fr="Traquet tarier" en="Whinchat" la="Saxicola rubetra" fundort="Magadino, Ti &amp;Hagedorn, Zg" land="CH" jahreszeit="F" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Braunkehlchen_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Braunkehlchen_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Braunkehlchen_AS_u" />
+      </vogel>
+      <vogel de="Hausrotschwanz" fr="Rougequeue noir" en="Black Redstart" la="Phoenicurus ochruros" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="HS" geschlecht="w" juvenil="n" groesse="15" file="Hausrotschwanz_HS_w" />
+        <feder name="S6" geschlecht="m" juvenil="n" groesse="15" file="Hausrotschwanz_S6_m" />
+        <feder name="Schwanz" geschlecht="u" juvenil="n" groesse="15" file="Hausrotschwanz_Schwanz_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Hausrotschwanz_AS_u" />
+      </vogel>
+      <vogel de="Gartenrotschwanz" fr="Rougequeue à front blanc" en="Common Redstart" la="Phoenicurus phoenicurus" fundort="Temerin &amp;Bolle di Magadino Ti" land="RS &amp;CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Gartenrotschwanz_S_u" />
+        <feder name="OSD" geschlecht="u" juvenil="n" groesse="5" file="Gartenrotschwanz_OSD_u" />
+        <feder name="Bauch" geschlecht="m" juvenil="n" groesse="5" file="Gartenrotschwanz_Bauch_m" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Gartenrotschwanz_HS_u" />
+      </vogel>
+      <vogel de="Schwarzkehlchen" fr="Tarier patre" en="Common Stonechat" la="Saxicola torquatus" fundort="Temerin" land="RS" jahreszeit="W" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="m" juvenil="n" groesse="5" file="Schwarzkehlchen_S_m" />
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="10" file="Schwarzkehlchen_HS_m" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="5" file="Schwarzkehlchen_AS_m" />
+        <feder name="Brust" geschlecht="m" juvenil="n" groesse="5" file="Schwarzkehlchen_Brust_m" />
+      </vogel>
+      <vogel de="Rotkehlchen" fr="Rougegorge" en="Robin" la="Erithacus rubecula" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Rotkehlchen_S_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Rotkehlchen_AS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Rotkehlchen_HSa_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="5" file="Rotkehlchen_Brust_u" />
+      </vogel>
+      <vogel de="Nachtigall" fr="Rossignol philomèle" en="Nightingale" la="Luscinia megarhynchos" fundort="Temerin" land="RS" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Nachtigall_S_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Nachtigall_AS_u" />
+      </vogel>
+      <vogel de="Steinschmätzer" fr="Traquet motteux" en="Northern Wheatear" la="Oenanthe oenanthe" fundort="Riederfurka Vs" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Steinschmaetzer_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Steinschmaetzer_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Steinschmaetzer_AS_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="5" file="Steinschmaetzer_Alula_u" />
+      </vogel>
+    </familie>
+    <familie de="Meisen" fr="Paridés" en="Paridae" la="Paridae" id="Paridae">
+      <vogel de="Sumpfmeise" fr="Mésange nonette" en="Marsh Tit" la="Parus palustris" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Sumpfmeise_HS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Sumpfmeise_S_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="5" file="Sumpfmeise_HSi_u" />
+      </vogel>
+      <vogel de="Blaumeise" fr="Mésange bleue" en="Blue Tit" la="Parus caeruleus" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Blaumeise_S6_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Blaumeise_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Blaumeise_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Blaumeise_HSi_u" />
+      </vogel>
+      <vogel de="Kohlmeise" fr="Mésange charbonnière" en="Great Tit" la="Parus major" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Kohlmeise_S6_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Kohlmeise_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Kohlmeise_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Kohlmeise_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Kohlmeise_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Kohlmeise_Schirm_u" />
+      </vogel>
+      <vogel de="Tannenmeise" fr="Mésange noire" en="Coal Tit" la="Parus ater" fundort="Bern, Oberland" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S5" geschlecht="u" juvenil="n" groesse="5" file="Tannenmeise_S5_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Tannenmeise_AS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="5" file="Tannenmeise_HSa_u" />
+      </vogel>
+    </familie>
+    <familie de="Beutelmeisen" fr="Rémizidés" en="Remizidae" la="Remizidae" id="Remizidae">
+      <vogel de="Beutelmeise" fr="Rémiz penduline" en="Penduline Tit" la="Remiz pendulinus" fundort="Temerin" land="RS" jahreszeit="W" brutin="PL" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Beutelmeise_S_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Beutelmeise_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="5" file="Beutelmeise_HS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="5" file="Beutelmeise_Schirm_u" />
+      </vogel>
+    </familie>
+    <familie de="Schwanzmeisen" fr="Aegithalidés" en="Aegithalidae" la="Aegithalidae" id="Aegithalidae">
+      <vogel de="Schwanzmeise" fr="Mésange à longue queue" en="Long-tailed Tit" la="Aegithalos caudatus" fundort="Temerin" land="RS" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Schwanzmeise_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Schwanzmeise_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Schwanzmeise_HS_u" />
+      </vogel>
+    </familie>
+    <familie de="Drosselmeisen" fr="Paradoxornitidés" en="Paradoxornithidae" la="Paradoxornithidae" id="Paradoxornithidae">
+      <vogel de="Bartmeise" fr="Mésange à moustache" en="Bearded Tit" la="Panurus biarmicus" fundort="Temerin" land="RS" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Bartmeise_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Bartmeise_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Bartmeise_AS_u" />
+      </vogel>
+    </familie>
+    <familie de="Nektarvögel" fr="Nectariniidés" en="Sunbirds" la="Nectariniidae" id="Nectariniidae">
+      <vogel de="Elfennektarvogel" fr="Souimanga à longue queue" en="Beautiful Sunbird" la="Cinnyris pulchellus" fundort="Sukuta" land="GM" jahreszeit="H" brutin="GM" orientierung="Q">
+        <feder name="S" geschlecht="m" juvenil="n" groesse="5" file="Elfennektarvogel_S_m" />
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="10" file="Elfennektarvogel_S1_m" />
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="5" file="Elfennektarvogel_HS_m" />
+        <feder name="OSD" geschlecht="m" juvenil="n" groesse="5" file="Elfennektarvogel_OSD_m" />
+      </vogel>
+    </familie>
+    <familie de="Seidenschwänze" fr="Bombycillidés" en="Bombycillidae" la="Bombycillidae" id="Bombycillidae">
+      <vogel de="Seidenschwanz" fr="Jaseur Boréal" en="Waxwing" la="Bombycilla garrulus" fundort="Dresden &amp; Schweiz" land="DE &amp; CH" jahreszeit="W" brutin="FI &amp; RU" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Seidenschwanz_AS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="10" file="Seidenschwanz_gAD_u" />
+        <feder name="Flügelhälfte" geschlecht="u" juvenil="n" groesse="15" file="Seidenschwanz_Fluegelhaelfte_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Seidenschwanz_Sa_u" />
+      </vogel>
+    </familie>
+    <familie de="Finken" fr="Fringillidés" en="Fringillidae" la="Fringillidae" id="Fringillidae">
+      <vogel de="Hänfling" fr="Linotte mélodieuse" en="Linnet" la="Carduelis cannabina" fundort="Yverdon, Vd&amp;von David" land="CH&amp;F" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="5" file="Haenfling_ASa_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Haenfling_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Haenfling_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Haenfling_HSi_u" />
+      </vogel>
+      <vogel de="Fichtenkreuzschnabel" fr="Bec-croisé des sapins" en="Common Crossbill" la="Loxia curvirostra" fundort="Sion, Vs" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="m" juvenil="n" groesse="10" file="Fichtenkreuzschnabel_S_m" />
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="10" file="Fichtenkreuzschnabel_HS_m" />
+        <feder name="OSD" geschlecht="m" juvenil="n" groesse="5" file="Fichtenkreuzschnabel_OSD_m" />
+      </vogel>
+      <vogel de="Gimpel" fr="Bouvreuil pivoine" en="Bullfinch" la="Pyrrhula pyrrhula" fundort="Jura, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S2" geschlecht="u" juvenil="n" groesse="10" file="Gimpel_S2_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Gimpel_HS_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="10" file="Gimpel_ASi_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="5" file="Gimpel_ASa_u" />
+        <feder name="Brust" geschlecht="m" juvenil="n" groesse="5" file="Gimpel_Brust_m" />
+      </vogel>
+      <vogel de="Girlitz" fr="Serin cini" en="Serin" la="Serinus serinus" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Girlitz_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="5" file="Girlitz_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Girlitz_AS_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Girlitz_USD_u" />
+      </vogel>
+      <vogel de="Birkenzeisig" fr="Sizerin flammé" en="Redpoll" la="Carduelis flammea" fundort="Col de Bretolet Vs" land="CH" jahreszeit="H" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Birkenzeisig_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Birkenzeisig_HSa_u" />
+      </vogel>
+      <vogel de="Buchfink" fr="Pinson des arbres" en="Chaffinch" la="Fringilla coeleps" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Buchfink_S6_u" />
+        <feder name="S4" geschlecht="u" juvenil="n" groesse="10" file="Buchfink_S4_u" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Buchfink_S1_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="10" file="Buchfink_HS10_u" />
+        <feder name="HS6" geschlecht="u" juvenil="n" groesse="10" file="Buchfink_HS6_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Buchfink_AS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="10" file="Buchfink_gAD_u" />
+      </vogel>
+      <vogel de="Bergfink" fr="Pinson du nord" en="Brambling" la="Fringilla montifringilla" fundort="Bern BE" land="CH" jahreszeit="W" brutin="SE &amp; RU" orientierung="H">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Bergfink_Sa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Bergfink_HSi_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="5" file="Bergfink_ASa_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="5" file="Bergfink_Brust_u" />
+      </vogel>
+      <vogel de="Grünfink" fr="Verdier" en="Greenfinch" la="Carduelis chloris" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S5" geschlecht="m" juvenil="n" groesse="10" file="Gruenfink_S5_m" />
+        <feder name="HS7" geschlecht="m" juvenil="n" groesse="10" file="Gruenfink_HS7_m" />
+        <feder name="HS5" geschlecht="m" juvenil="n" groesse="10" file="Gruenfink_HS5_m" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Gruenfink_AS_u" />
+        <feder name="Schwanz" geschlecht="m" juvenil="n" groesse="10" file="Gruenfink_Schwanz_m" />
+      </vogel>
+      <vogel de="Kernbeisser" fr="Gros-bec" en="Hawfinch" la="Coccothraustes coccothraustes" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="10" file="Kernbeisser_HS_m" />
+        <feder name="S" geschlecht="m" juvenil="n" groesse="10" file="Kernbeisser_S_m" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="10" file="Kernbeisser_AS_w" />
+      </vogel>
+      <vogel de="Distelfink" fr="Chardonneret" en="Goldfinch" la="Carduelis carduelis" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Distelfink_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Distelfink_HS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Distelfink_S_u" />
+      </vogel>
+      <vogel de="Erlenzeisig" fr="Tarin des aulnes" en="Siskin" la="Carduelis spinus" fundort="Bern BE" land="CH" jahreszeit="W" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="m" juvenil="n" groesse="5" file="Erlenzeisig_S_m" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="5" file="Erlenzeisig_AS_m" />
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="5" file="Erlenzeisig_HS_m" />
+      </vogel>
+    </familie>
+    <familie de="Wasseramseln" fr="Cinclidés" en="Cinclidae" la="Cinclidae" id="Cinclidae">
+      <vogel de="Wasseramsel" fr="Cincle plongeur" en="White-throated Dipper" la="Cinclus cinclus" fundort="CH" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Wasseramsel_HS_u">
+          <text lang="de">
+            Geschenk von A. Saunier
+          </text>
+          <text lang="fr">
+            Cadeau de A. Saunier
+          </text>
+          <text lang="en">
+            Gift from A. Saunier
+          </text>
+        </feder>
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Wasseramsel_S_u">
+          <text lang="de">
+            Geschenk von A. Saunier
+          </text>
+          <text lang="fr">
+            Cadeau de A. Saunier
+          </text>
+          <text lang="en">
+            Gift from A. Saunier
+          </text>
+        </feder>
+      </vogel>
+    </familie>
+    <familie de="Zaunkönige" fr="Troglodytes" en="Troglodytiae" la="Troglodytiae" id="Troglodytiae">
+      <vogel de="Zaunkönig" fr="Troglodyte mignon" en="Wren" la="Troglodytes troglodytes" fundort="Les Grangettes, Vd &amp; Hagendorn,Zg" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="5" file="Zaunkoenig_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Zaunkoenig_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Zaunkoenig_S_u" />
+      </vogel>
+    </familie>
+    <familie de="Braunellen" fr="Prunellidés" en="Prunellidae" la="Prunellidae" id="Prunellidae">
+      <vogel de="Heckenbraunelle" fr="Accenteur mouchet" en="Dunnock" la="Prunella modularis" fundort="Magadino, Ti" land="CH" jahreszeit="F" brutin="CH" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="5" file="Heckenbraunelle_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="5" file="Heckenbraunelle_ASa_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Heckenbraunelle_S_u" />
+      </vogel>
+      <vogel de="Alpenbraunelle" fr="Accenteur alpin" en="Alpine Accentor" la="Prunella collaris" fundort="Bergün, GR" land="CH" jahreszeit="HW" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Alpenbraunelle_S_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Alpenbraunelle_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="5" file="Alpenbraunelle_Schirm_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Alpenbraunelle_gAD_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Alpenbraunelle_HS_u" />
+      </vogel>
+    </familie>
+    <familie de="Kleiber" fr="Sittidés" en="Sittidae" la="Sittidae" id="Sittidae">
+      <vogel de="Kleiber" fr="Sittelle torchepot" en="Nuthatch" la="Sitta europaea" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S4" geschlecht="u" juvenil="n" groesse="5" file="Kleiber_S4_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Kleiber_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Kleiber_HS_u" />
+      </vogel>
+    </familie>
+    <familie de="Stärlinge" fr="Étourneaux" en="Sturnidae" la="Sturnidae" id="Sturnidae">
+      <vogel de="Star" fr="Etourneau sansonnet" en="Starling" la="Sturnus vulgaris" fundort="Nyon,Vd" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Star_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Star_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Star_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Star_Schirm_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Star_gAD_u" />
+      </vogel>
+      <vogel de="Purpurglanzstar" fr="Merle métallique pourpré" en="Purple glossy Starling" la="Lamprotornis purpureus" fundort="Salanding" land="GM" jahreszeit="F" brutin="GM" orientierung="H">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Purpurglanzstar_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Purpurglanzstar_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Purpurglanzstar_HS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Purpurglanzstar_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Purpurglanzstar_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Purpurglanzstar_Schirm_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Purpurglanzstar_gAD_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Spechtartige Vögel" fr="Piciformes" en="Piciformes" la="Piciformes" id="Piciformes">
+    <familie de="Spechte" fr="Picidés" en="Picidae" la="Picidae" id="Picidae">
+      <vogel de="Buntspecht" fr="Pic épeiche" en="Great Spotted Woodpecker" la="Dendrocopos Major" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S2" geschlecht="u" juvenil="n" groesse="10" file="Buntspecht_S2_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Buntspecht_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Buntspecht_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Buntspecht_AS_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Buntspecht_USD_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Buntspecht_Sa_u" />
+      </vogel>
+      <vogel de="Schwarzspecht" fr="Pic noir" en="Black Woodpecker" la="Dryocopus martius" fundort="David Constance&amp;Ulmizberg BE" land="FR&amp;CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Schwarzspecht_S1_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="30" file="Schwarzspecht_HSa_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="10" file="Schwarzspecht_gAD_u" />
+        <feder name="Kopf" geschlecht="u" juvenil="n" groesse="5" file="Schwarzspecht_Kopf_u" />
+      </vogel>
+      <vogel de="Grünspecht" fr="Pic vert" en="Green Woodpecker" la="Picus viridis" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Gruenspecht_S1_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Gruenspecht_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Gruenspecht_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Gruenspecht_Schirm_u" />
+        <feder name="AD" geschlecht="u" juvenil="n" groesse="5" file="Gruenspecht_AD_u" />
+      </vogel>
+      <vogel de="Grauspecht" fr="Pic cendré" en="Grey-headed Woodpecker" la="Picus canus" fundort="Bern &amp; Niedermuhlern, BE" land="CH" jahreszeit="SH" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Grauspecht_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Grauspecht_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Grauspecht_HSi_u" />
+      </vogel>
+      <vogel de="Wendehals" fr="Torcol fourmilier" en="Wryneck" la="Jynx torquilla" fundort=" Temerin &amp; Martigny, VS (M.Tschumi)" land="RS &amp; CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Wendehals_HSi_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Wendehals_S_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Wendehals_Sa_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Wendehals_ASa_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Wendehals_HSa_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Wendehals_USD_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Wendehals_gAD_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Rackenvögel" fr="Coraciiformes" en="Coraciiformes" la="Coraciiformes" id="Coraciiformes">
+    <familie de="Racken" fr="Coraciidés" en="Coraciidae" la="Coraciidae" id="Coraciidae">
+      <vogel de="Blauracke" fr="Rollier d'Europe" en="Roller" la="Coracias garrulus" fundort="Hortobagy Puszta &amp; Marrakesh" land="HU &amp; MA" jahreszeit="S" brutin="ES &amp; HU" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Blauracke_S_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Blauracke_HS10_u">
+          <text lang="de">Unterseite der Feder</text>
+          <text lang="fr">Partie inférieure de la plume</text>
+          <text lang="en">Backside of the feather</text>
+        </feder>
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Blauracke_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Blauracke_AS_u" />
+      </vogel>
+      <vogel de="Senegalracke" fr="Rollier d'Abyssinie" en="Abyssinian Roller" la="Coracias abyssiniica" brutin="GM&amp;SN" fundort="Kerewan &amp;Lamin" land="GM" jahreszeit="F" orientierung="H">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Senegalracke_HSa_u" />
+        <feder name="S6" geschlecht="m" juvenil="n" groesse="30" file="Senegalracke_S6_m" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Senegalracke_S_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Senegalracke_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Senegalracke_AS_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="5" file="Senegalracke_HD_u" />
+      </vogel>
+      <vogel de="Blaubauchracke" fr="Rollier à ventre bleu" en="Blue-bellied Roller" la="Coracias cyanogaster" brutin="GM&amp;SN" fundort="Kartong" land="GM" jahreszeit="F" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Blaubauchracke_HSa_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="20" file="Blaubauchracke_S6_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Blaubauchracke_S_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Blaubauchracke_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Blaubauchracke_AS_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="5" file="Blaubauchracke_Alula_u" />
+      </vogel>
+    </familie>
+    <familie de="Eisvogelartige" fr="Alcedinidés" en="Alcedinidae" la="Alcedinidae" id="Alcedinidae">
+      <vogel de="Graufischer" fr="Martin-pêcheur pie" en="Pied Kingfisher" la="Ceryle rudis" fundort="Madiana" land="GM" jahreszeit="F" brutin="GM" orientierung="Q">
+        <feder name="Fluegel und Schwanzhaelfte" geschlecht="u" juvenil="n" groesse="25" file="Graufischer_Fluegel_und_Schwanzhaelfte_u" />
+      </vogel>
+      <vogel de="Eisvogel" fr="Martin-pêcheur" en="Kingfisher" la="Alcedo atthis" fundort="Bolle di Magadino, Ti" land="CH" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="5" file="Eisvogel_S1_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="5" file="Eisvogel_Ruecken_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Eisvogel_USD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Eisvogel_AS_u" />
+      </vogel>
+      <vogel de="Blaufischer" fr="Martin-pêcheur à poitrine bleue" en="Blue-breasted Kingfisher" la="Halcyon malimbica" fundort="Tanjie" land="GM" jahreszeit="H" brutin="GM" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Blaufischer_S_u" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="5" file="Blaufischer_Ruecken_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="5" file="Blaufischer_Alula_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Blaufischer_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Blaufischer_AS_u" />
+      </vogel>
+    </familie>
+    <familie de="Bienenfresser" fr="Méropidés" en="Meropidae" la="Meropidae" id="Meropidae">
+      <vogel de="Bienenfresser" fr="Guêpier d 'Europe" en="Bee-eater" la="Merops apiaster" fundort="Ayanapa &amp; Marrakesh, MA" land="CY &amp; MA" jahreszeit="FH" brutin="ES &amp; CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="15" file="Bienenfresser_S1_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Bienenfresser_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Bienenfresser_AS_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="15" file="Bienenfresser_Sa_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Seglervögel" fr="Apodiformes" en="Apodiformes" la="Apodiformes" id="Apodiformes">
+    <familie de="Segler" fr="Apodidés" en="Apodidae" la="Apodidae" id="Apodidae">
+      <vogel de="Mauersegler" fr="Martinet noir" en="Swift" la="Apus apus" fundort="Bern BE &amp; Nyon, VD" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Mauersegler_Si_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Mauersegler_Sa_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="15" file="Mauersegler_HS10_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Mauersegler_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Mauersegler_AS_u" />
+      </vogel>
+      <vogel de="Alpensegler" fr="Martinet à ventre blanc" en="Alpine Swift" la="Apus melba" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Alpensegler_S1_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Alpensegler_HS10_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Alpensegler_HS_u" />
+        <feder name="Handschwinge" geschlecht="u" juvenil="n" groesse="20" file="Alpensegler_Handschwinge_u" />
+        <feder name="AS" geschlecht="u" juvenil="j" groesse="5" file="Alpensegler_AS_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Schwalmartige Vögel" fr="Caprimulgiformes" en="Caprimulgiformes" la="Caprimulgiformes" id="Caprimulgiformes">
+    <familie de="Nachtschwalben" fr="Caprimulgidés" en="Caprimulgidae" la="Caprimulgidae" id="Caprimulgidae">
+      <vogel de="Nachtschwalbe" fr="Engoulevent d'Europe" en="Nightjar" la="Caprimulgus europeus" fundort="Pfynwald Vs" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Nachtschwalbe_S1_u" />
+        <feder name="Si" geschlecht="m" juvenil="n" groesse="20" file="Nachtschwalbe_Si_m" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="20" file="Nachtschwalbe_HSa_m" />
+      </vogel>
+      <vogel de="Rothalsziegenmelker" fr="Engoulevent à collier roux" en="Red-necked Nightjar" la="Caprimulgus ruficollis" fundort="Marrakesh &amp;Malaga" land="MA &amp;ES" jahreszeit="S" brutin="ES &amp; MA" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Rothalsziegenmelker_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Rothalsziegenmelker_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Rothalsziegenmelker_HS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Rothalsziegenmelker_HSa_u" />
+        <feder name="AD" geschlecht="u" juvenil="n" groesse="5" file="Rothalsziegenmelker_AD_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Rothalsziegenmelker_HSi_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Kuckucksvögel" fr="Cuculiformes" en="Cuculiformes" la="Cuculiformes" id="Cuculiformes">
+    <familie de="Kuckucke" fr="Cuculidés" en="Cuculidae" la="Cuculidae" id="Cuculidae">
+      <vogel de="Kuckuck" fr="Coucou gris" en="Cuckoo" la="Cuculus canonus" fundort="Chablais de Cudrefin Vd &amp; Protaras (juv)" land="CH &amp; CY" jahreszeit="FH" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Kuckuck_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Kuckuck_S_u" />
+        <feder name="USD" geschlecht="u" juvenil="n" groesse="10" file="Kuckuck_USD_u" />
+        <feder name="OSD" geschlecht="u" juvenil="n" groesse="15" file="Kuckuck_OSD_u" />
+        <feder name="Si" geschlecht="u" juvenil="j" groesse="20" file="Kuckuck_Si_u_j" />
+        <feder name="Sa" geschlecht="u" juvenil="j" groesse="20" file="Kuckuck_Sa_u_j" />
+        <feder name="HSa" geschlecht="u" juvenil="j" groesse="20" file="Kuckuck_HSa_u_j" />
+        <feder name="HSi" geschlecht="u" juvenil="j" groesse="20" file="Kuckuck_HSi_u_j" />
+        <feder name="ASa" geschlecht="u" juvenil="j" groesse="20" file="Kuckuck_ASa_u_j" />
+        <feder name="S" geschlecht="w" juvenil="n" groesse="20" file="Kuckuck_S_w_n" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="15" file="Kuckuck_AS_w_n" />
+        <feder name="gAD" geschlecht="w" juvenil="n" groesse="10" file="Kuckuck_gAD_w_n" />
+      </vogel>
+      <vogel de="Häherkuckuck" fr="Coucou geai" en="Great spotted Cuckoo" la="Clamator glandarius" fundort="Marrakesh" land="MA" jahreszeit="S" brutin="ES" orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="25" file="Haeherkuckuck_Si_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Haeherkuckuck_Sa_u" />
+        <feder name="HS" geschlecht="u" juvenil="j" groesse="20" file="Haeherkuckuck_HS_u_j" />
+      </vogel>
+      <vogel de="Spornkuckuck" fr="Coucal du Sénégal" en="Senegal coucal" la="Centropus senegalensis" fundort="Bato Kunku" land="GM" jahreszeit="F" brutin="GM" orientierung="H">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="25" file="Spornkuckuck_S1_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Spornkuckuck_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Spornkuckuck_AS_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="5" file="Spornkuckuck_Brust_u" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="10" file="Spornkuckuck_Ruecken_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Hopfartige Vögel" fr="Upupiformes" en="Upupiformes" la="Upupiformes" id="Upupiformes">
+    <familie de="Wiedehopfe" fr="Upupidés" en="Upupidae" la="Upupidae" id="Upupidae">
+      <vogel de="Wiedehopf" fr="Huppe fasciée" en="Hoopoe" la="Upupa epops" fundort="Extremadura, Naxos" land="ES, GR" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="15" file="Wiedehopf_S1_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="15" file="Wiedehopf_Sa_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="15" file="Wiedehopf_HS10_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Wiedehopf_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Wiedehopf_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Wiedehopf_ASa_u" />
+        <feder name="Schopf" geschlecht="u" juvenil="n" groesse="10" file="Wiedehopf_Schopf_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="15" file="Wiedehopf_Schirm_u" />
+      </vogel>
+    </familie>
+    <familie de="Baumhopfe" fr="Phoeniculidés" en="Phoeniculidae" la="Phoeniculidae" id="Phoeniculidae">
+      <vogel de="Baumhopf" fr="Irrisor moquer" en="Green Wood Hoopoe" la="Phoeniculus purpureus" brutin="GM,SN" fundort="Kololi,Madiana" jahreszeit="F" land="GM" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Baumhopf_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Baumhopf_HS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Baumhopf_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Baumhopf_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Baumhopf_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Baumhopf_ASa_u" />
+      </vogel>
+    </familie>
+    <familie de="Nashornvögel" fr="Bucerotidés" en="Hornbills" la="Bucerotidae" id="Bucerotidae">
+      <vogel de="Rotschnabeltoko" fr="Petit calao à bec rouge" en="Red-billed Hornbill" la="Tockus erythrorhynchus" brutin="GM,SN" fundort="Faraba Banta&amp;Madiana" jahreszeit="F" land="GM" orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="25" file="Rotschnabeltoko_Si_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Rotschnabeltoko_HS_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="25" file="Rotschnabeltoko_Sa_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="10" file="Rotschnabeltoko_HD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Rotschnabeltoko_AS_u" />
+        <!-- feder name="ASi" geschlecht="u" juvenil="n" groesse="20" file="Rotschnabeltoko_ASi_u" /-->
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Eulen" fr="Strigiformes" en="Strigiformes" la="Strigiformes" id="Strigiformes">
+    <familie de="Eigentliche Eulen" fr="Strigidés" en="Strigidae" la="Strigidae" id="Strigidae">
+      <vogel de="Milchuhu" fr="Grand- duc de Verreaux" en="Verreaux 's Eagle Owl" la="Bubo lacteus" fundort="Tanjie" land="GM" jahreszeit="F" brutin="u.a. GM" orientierung="H">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="30" file="Milchuhu_HSa_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="25" file="Milchuhu_ASi_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="25" file="Milchuhu_ASa_u" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="20" file="Milchuhu_Ruecken_u" />
+      </vogel>
+      <vogel de="Uhu" fr="Hibou grand duc" en="Eagle Owl" la="Bubo bubo" fundort="Tierpark Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="30" file="Uhu_HS10_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="20" file="Uhu_Alula_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="20" file="Uhu_HD_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="30" file="Uhu_ASa_u" />
+        <feder name="HS9" geschlecht="u" juvenil="n" groesse="40" file="Uhu_HS9_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="25" file="Uhu_Sa_u" />
+      </vogel>
+      <vogel de="Steinkauz" fr="Chouette chevêche" en="Little Owl" la="Athene noctua" fundort="Provence &amp; Thurnenmoos BE" land="FR &amp; CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Steinkauz_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Steinkauz_S_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Steinkauz_Sa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Steinkauz_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Steinkauz_HS_u" />
+      </vogel>
+      <vogel de="Raufusskauz" fr="Chouette de Tengmalm" en="Tengmalm's Owl" la="Aegolius funereus" fundort="Tierpark Bern" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Raufusskauz_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Raufusskauz_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Raufusskauz_AS_u" />
+      </vogel>
+      <vogel de="Waldkauz" fr="Chouette hulotte" en="Tawny Owl" la="Strix aluco" fundort="Kehrsatz BE, Elsass" land="CH &amp; F" jahreszeit="FS" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_S_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_Si_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_HS10_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_HS_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_ASi_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_ASa_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_gAD_u" />
+        <feder name="Schulter" geschlecht="u" juvenil="n" groesse="20" file="Waldkauz_Schulter_u" />
+      </vogel>
+      <vogel de="Nordbuescheleule" fr="Petit duc à face blanche" en="White-faced Scops Owll" la="Ptilopsis leucotis" fundort="Kololi&amp;Madiana" land="GM" jahreszeit="F" brutin="GM" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Nordbuescheleule_S_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="10" file="Nordbuescheleule_HD_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Nordbuescheleule_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Nordbuescheleule_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Nordbuescheleule_AS_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="10" file="Nordbuescheleule_Brust_u" />
+      </vogel>
+      <vogel de="Schleiereule" fr="Chouette effraie" en="Barn Owl" la="Tyto alba" fundort="Belpmoos BE" land="CH" jahreszeit="H" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Schleiereule_S1_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Schleiereule_S_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Schleiereule_HS10_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Schleiereule_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Schleiereule_AS_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="20" file="Schleiereule_Alula_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="20" file="Schleiereule_Ruecken_u" />
+      </vogel>
+      <vogel de="Waldohreule" fr="Hibou moyen duc" en="Long-eared Owl" la="Asio otus" fundort="Eriz BE" land="CH" jahreszeit="H" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_S1_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_Sa_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_HS10_u" />
+        <feder name="HS9" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_HS9_u" />
+        <feder name="HS3" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_HS3_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_ASa_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_Schirm_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="20" file="Waldohreule_HD_u" />
+      </vogel>
+      <vogel de="Zwergohreule" fr="Hibou petit duc" en="Scops Owl" la="Otus scops" fundort="Tierpark, BE" land="CH" jahreszeit="H" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Zwergohreule_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Zwergohreule_ASa_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Zwergohreule_S_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="10" file="Zwergohreule_HD_u" />
+      </vogel>
+      <vogel de="Sumpfohreule" fr="Hibou des marais" en="Short-eared owl" la="Asio flammeus" fundort="Tierpark, BE &amp; Nordnorwegen" land="CH &amp; NO" jahreszeit="H" brutin="NO &amp; RU" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Sumpfohreule_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="20" file="Sumpfohreule_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Sumpfohreule_AS_u" />
+      </vogel>
+      <vogel de="Schnee-Eule" fr="Harfang des neiges" en="Snowy Owl" la="Nyctea scandiaca" fundort="Tierpark, BE" land="CH" jahreszeit="S" brutin="NO" orientierung="Q">
+        <feder name="HS" geschlecht="w" juvenil="n" groesse="30" file="Schnee-Eule_HS_w" />
+        <feder name="S" geschlecht="m" juvenil="n" groesse="25" file="Schnee-Eule_S_m" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="25" file="Schnee-Eule_AS_w" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="25" file="Schnee-Eule_AS_m" />
+      </vogel>
+      <vogel de="Habichtskauz" fr="Chouette de l` 'Oural" en="Ural Owl" la="Strix uralensis" fundort="Tierpark, BE" land="CH" jahreszeit="S" brutin="SE" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Habichtskauz_HS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="15" file="Habichtskauz_gAD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Habichtskauz_AS_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="10" file="Habichtskauz_Alula_u" />
+      </vogel>
+      <vogel de="Bartkauz" fr="Chouette lapone" en="Great Grey Owll" la="Strix nebulosa" fundort="Tierpark, BE" land="CH" jahreszeit="S" brutin="SE" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Bartkauz_HS_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="15" file="Bartkauz_HD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="30" file="Bartkauz_AS_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="15" file="Bartkauz_Alula_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="30" file="Bartkauz_S_u" />
+        <feder name="Hals" geschlecht="u" juvenil="n" groesse="15" file="Bartkauz_Hals_u" />
+      </vogel>
+      <vogel de="Sperlingskauz" fr="Chouette chevêchette" en="Pygmy Owl" la="Glaucidium passerinum" fundort="Tierpark, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Sperlingskauz_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Sperlingskauz_AS_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+
+  <ordnung de="Huehnervoegel" fr="Galliformes" en="Galliformes" la="Galliformes" id="Galliformes">
+    <familie de="Rauhfusshühner" fr="Tetraonidés" en="Tetraonidae" la="Tetraonidae" id="Tetraonidae">
+      <vogel de="Birkhuhn" fr="Tétras lyre" en="Black Grouse" la="Tetrao tetrix" fundort="Gurnigel BE, Frau Oberhänsli, Col de Bretolet, Vs, Tierpark Bern" land="CH" jahreszeit="SH" brutin="CH" orientierung="Q">
+        <feder name="Sa" geschlecht="m" juvenil="n" groesse="20" file="Birkhuhn_Sa_m" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="20" file="Birkhuhn_AS_m" />
+        <feder name="Alula" geschlecht="m" juvenil="n" groesse="10" file="Birkhuhn_Alula_m" />
+        <feder name="Alula" geschlecht="w" juvenil="n" groesse="10" file="Birkhuhn_Alula_w" />
+        <feder name="Deckfeder" geschlecht="w" juvenil="n" groesse="10" file="Birkhuhn_Deckfeder_w" />
+        <feder name="S" geschlecht="w" juvenil="n" groesse="15" file="Birkhuhn_S_w" />
+        <feder name="Sa" geschlecht="w" juvenil="n" groesse="15" file="Birkhuhn_Sa_w" />
+        <feder name="S1" geschlecht="w" juvenil="n" groesse="15" file="Birkhuhn_S1_w" />
+        <feder name="HSa" geschlecht="w" juvenil="n" groesse="20" file="Birkhuhn_HSa_w" />
+        <feder name="HSi" geschlecht="w" juvenil="n" groesse="20" file="Birkhuhn_HSi_w" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="15" file="Birkhuhn_AS_w" />
+        <feder name="Schirm" geschlecht="w" juvenil="n" groesse="15" file="Birkhuhn_Schirm_w" />
+        <feder name="USD" geschlecht="w" juvenil="n" groesse="15" file="Birkhuhn_USD_w" />
+        <feder name="Si" geschlecht="m" juvenil="n" groesse="15" file="Birkhuhn_Si_m" />
+      </vogel>
+      <vogel de="Auerhuhn" fr="Grand Tétras" en="Capercaillie" la="Tetrao urogallus" fundort="Tierpark Bern" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="25" file="Auerhuhn_AS_m" />
+        <feder name="Flanke" geschlecht="m" juvenil="n" groesse="15" file="Auerhuhn_Flanke_m" />
+        <feder name="Hals" geschlecht="m" juvenil="n" groesse="10" file="Auerhuhn_Hals_m" />
+        <feder name="HS" geschlecht="w" juvenil="n" groesse="25" file="Auerhuhn_HS_w" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="20" file="Auerhuhn_AS_w" />
+        <feder name="USD" geschlecht="w" juvenil="n" groesse="15" file="Auerhuhn_USD_w" />
+        <feder name="Deckfeder" geschlecht="w" juvenil="n" groesse="10" file="Auerhuhn_Deckfeder_w" />
+        <feder name="Si" geschlecht="m" juvenil="n" groesse="25" file="Auerhuhn_Si_m" />
+        <feder name="Si" geschlecht="w" juvenil="n" groesse="20" file="Auerhuhn_Si_w" />
+      </vogel>
+      <vogel de="Alpenschneehuhn" fr="Lagopède alpin" en="Ptarmigan" la="Lagopus mutus" fundort="Stausee Mattmark,         Laggintal, VS" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="Schwanzhälfte" geschlecht="w" juvenil="n" groesse="30" file="Alpenschneehuhn_Schwanzhaelfte_u_w" />
+        <feder name="Flügel" geschlecht="w" juvenil="n" groesse="30" file="Alpenschneehuhn_Fluegel_u_w" />
+        <feder name="ASa" geschlecht="w" juvenil="n" groesse="10" file="Alpenschneehuhn_ASa_u_w" />
+        <feder name="S" geschlecht="w" juvenil="n" groesse="15" file="Alpenschneehuhn_S_u" />
+        <feder name="S" geschlecht="w" juvenil="n" groesse="15" file="Alpenschneehuhn_S_u_w" />
+        <feder name="OSD1" geschlecht="w" juvenil="n" groesse="15" file="Alpenschneehuhn_OSD1_u_w" />
+        <feder name="USD" geschlecht="w" juvenil="n" groesse="10" file="Alpenschneehuhn_USD_u_w" />
+        <feder name="HSa" geschlecht="w" juvenil="n" groesse="15" file="Alpenschneehuhn_HSa_u_w" />
+        <feder name="Deckfeder" geschlecht="w" juvenil="n" groesse="10" file="Alpenschneehuhn_Deckfeder_w" />
+        <feder name="Unterflügeldeckfeder" geschlecht="u" juvenil="n" groesse="10" file="Alpenschneehuhn_Unterfluegeldeckfeder_u_w" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="5" file="Alpenschneehuhn_Deckfeder_u_w" />
+      </vogel>
+      <vogel de="Haselhuhn" fr="Gélinotte des bois" en="Hazel Grouse" la="Bonasa bonasia" fundort="Scuol, GR" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="15" file="Haselhuhn_S1_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="15" file="Haselhuhn_Sa_u" />
+        <feder name="OSD" geschlecht="u" juvenil="n" groesse="10" file="Haselhuhn_OSD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Haselhuhn_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Haselhuhn_HS_u" />
+      </vogel>
+    </familie>
+    <familie de="Glattfusshühner" fr="Phasianidés" en="Phasianidae" la="Phasianidae" id="Phasianidae">
+      <vogel de="Rebhuhn" fr="Perdrix grise" en="Grey Partridge" la="Perdix perdix" fundort="Schule Selhofen, Kehrsatz" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Rebhuhn_Si_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Rebhuhn_AS_u" />
+        <feder name="Flanke" geschlecht="u" juvenil="n" groesse="10" file="Rebhuhn_Flanke_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Rebhuhn_HS_u" />
+      </vogel>
+      <vogel de="Wachtel" fr="Caille des blés" en="Quail" la="Coturnix coturnix" fundort="Nordserbien &amp; Zypern" land="RS &amp; CY" jahreszeit="SH" brutin="CH &amp; FR" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Wachtel_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Wachtel_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Wachtel_Schirm_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="5" file="Wachtel_Deckfeder_u" />
+      </vogel>
+      <vogel de="Steinhuhn" fr="Perdrix bartavelle" en="Rock Partridge" la="Alectoris graeca" fundort="Zwischbergental, VS &amp;        S-charl, GR" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="Flanke" geschlecht="u" juvenil="n" groesse="15" file="Steinhuhn_Flanke_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Steinhuhn_HS_u" />
+        <feder name="S" geschlecht="u" groesse="10" juvenil="n" file="Steinhuhn_S_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Steinhuhn_ASa_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Steinhuhn_HSa_u" />
+      </vogel>
+      <vogel de="Jagdfasan" fr="Faisan de colchide" en="Pheasant" la="Phasianus colchicus subspec." fundort="Köniztal, BE; Saure, FR" land="CH &amp; FR" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="m" juvenil="n" groesse="25" file="Jagdfasan_S_m" />
+        <feder name="Sa" geschlecht="m" juvenil="n" groesse="20" file="Jagdfasan_Sa_m" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Jagdfasan_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Jagdfasan_AS_u" />
+        <feder name="ASa" geschlecht="m" juvenil="n" groesse="20" file="Jagdfasan_ASa_m" />
+        <feder name="Rücken" geschlecht="m" juvenil="n" groesse="15" file="Jagdfasan_Ruecken_m" />
+        <feder name="Flanke" geschlecht="m" juvenil="n" groesse="15" file="Jagdfasan_Flanke_m" />
+      </vogel>
+      <vogel de="Doppelspornfrankolin" fr="Francolin à double éperon" en="Double-spurred Francolin" la="Francolinus bicalcaratus" fundort="Bato Kunku" land="GM" jahreszeit="F" brutin="GM" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Doppelspornfrankolin_S_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Doppelspornfrankolin_AS_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="10" file="Doppelspornfrankolin_Brust_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Doppelspornfrankolin_HS_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="15" file="Doppelspornfrankolin_HS10_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="10" file="Doppelspornfrankolin_gAD_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Greifvögel" fr="Falconiformes" en="Falconiformes" la="Falconiformes" id="Falconiformes">
+    <familie de="Habichtartige" fr="Accipitridés" en="Accipitridae" la="Accipitridae" id="Accipitridae">
+      <vogel de="Sperber" fr="Epervier d'Europe" en="Sparrowhawk" la="Accipiter nisus" fundort="Bern, Neuenegg BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="w" juvenil="n" groesse="20" file="Sperber_S1_w" />
+        <feder name="S6" geschlecht="w" juvenil="n" groesse="20" file="Sperber_S6_w" />
+        <feder name="HSa" geschlecht="w" juvenil="n" groesse="20" file="Sperber_HSa_w" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="20" file="Sperber_AS_w" />
+        <feder name="Schwanz" geschlecht="w" juvenil="j" groesse="20" file="Sperber_Schwanz_w_j" />
+        <feder name="Schwanz" geschlecht="m" juvenil="n" groesse="20" file="Sperber_Schwanz_m" />
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="20" file="Sperber_S1_m" />
+        <feder name="Sa" geschlecht="m" juvenil="n" groesse="20" file="Sperber_Sa_m" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="20" file="Sperber_HSa_m" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="20" file="Sperber_AS_m" />
+        <feder name="Schirm" geschlecht="w" juvenil="n" groesse="20" file="Sperber_Schirm_w" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="5" file="Sperber_Brust_u" />
+      </vogel>
+      <vogel de="Habicht" fr="Autour des palombes" en="Goshawk" la="Accipiter gentilis" fundort="Gurten, BE &amp; Val S-charl, GR, Ostschweiz" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S1" geschlecht="w" juvenil="n" groesse="30" file="Habicht_S1_w" />
+        <feder name="S6" geschlecht="w" juvenil="n" groesse="25" file="Habicht_S6_w" />
+        <feder name="S" geschlecht="m" juvenil="n" groesse="25" file="Habicht_S_m" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Habicht_HSa_u" />
+        <feder name="ASi" geschlecht="m" juvenil="n" groesse="20" file="Habicht_ASi_m" />
+        <feder name="ASi" geschlecht="w" juvenil="n" groesse="25" file="Habicht_ASi_w" />
+        <feder name="Bauch" geschlecht="u" juvenil="n" groesse="15" file="Habicht_Bauch_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="15" file="Habicht_Deckfeder_u" />
+        <feder name="Sa" geschlecht="m" juvenil="n" groesse="25" file="Habicht_Sa_m" />
+      </vogel>
+      <vogel de="Graubürzelsinghabicht" fr="Autour -chanteur sombre" en="Dark chanting Goshawk" la="Melierax metabates" fundort="Faraba Banta" land="GM" jahreszeit="F" brutin="GM" orientierung="H">
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="20" file="Graubuerzelsinghabicht_ASa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Graubuerzelsinghabicht_AS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="j" groesse="25" file="Graubuerzelsinghabicht_HSa_u_j" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Graubuerzelsinghabicht_HS_u" />
+      </vogel>
+      <vogel de="Rotmilan" fr="Milan royal" en="Red Kite" la="Milvus milvus" fundort="Tierpark, BE &amp; Flaach Zh" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="25" file="Rotmilan_S6_u" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="25" file="Rotmilan_S1_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Rotmilan_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Rotmilan_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="25" file="Rotmilan_Schirm_u" />
+      </vogel>
+      <vogel de="Schwarzmilan" fr="Milan noir" en="Black Kite" la="Milvus migrans" fundort="Gerzensee BE &amp; Extremadura" land="CH &amp; ES" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="25" file="Schwarzmilan_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Schwarzmilan_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Schwarzmilan_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Schwarzmilan_AS_u" />
+      </vogel>
+      <vogel de="Rohrweihe" fr="Busard des roseaux" en="Marsh Harrier" la="Circus aeruginosus" fundort="Hortobagy Puszta &amp; Privatsammler" land="HU" jahreszeit="S" brutin="DE" orientierung="Q">
+        <feder name="S" geschlecht="w" juvenil="n" groesse="25" file="Rohrweihe_S_w" />
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="25" file="Rohrweihe_HS_m" />
+        <feder name="S" geschlecht="m" juvenil="n" groesse="25" file="Rohrweihe_S_m" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="20" file="Rohrweihe_AS_m" />
+      </vogel>
+      <vogel de="Bartgeier" fr="Gypaète barbu" en="Lammergeier" la="Gypaetus barbatus" fundort="Nationalpark GR &amp; Tierpark Goldau" land="CH" jahreszeit="S" brutin="FR &amp; CH" orientierung="H">
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="40" file="Bartgeier_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="40" file="Bartgeier_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="j" groesse="40" file="Bartgeier_S_u_j" />
+        <feder name="Schulter" geschlecht="u" juvenil="n" groesse="10" file="Bartgeier_Schulter_u" />
+      </vogel>
+      <vogel de="Gänsegeier" fr="Vautoure fauve" en="European Griffon Vulture" la="Gyps fulvus" fundort="Pyrenaeen &amp; Tierpark Abuko" land="E &amp;GM" jahreszeit="S" brutin="FR &amp; E" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Gaensegeier_HS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="30" file="Gaensegeier_S_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="30" file="Gaensegeier_Schirm_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="25" file="Gaensegeier_gAD_u" />
+        <feder name="Schulter" geschlecht="u" juvenil="n" groesse="10" file="Gaensegeier_Schulter_u" />
+      </vogel>
+      <vogel de="Steinadler" fr="Aigle royal" en="Golden Eagle" la="Aquila chrysaetos" fundort="Val S-Charl GR; Tierpark Bern" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="j" groesse="40" file="Steinadler_AS_u_j" />
+        <feder name="HS" geschlecht="u" juvenil="i" groesse="40" file="Steinadler_HS_u_i" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="40" file="Steinadler_HSa_u" />
+        <feder name="S1" geschlecht="u" juvenil="j" groesse="40" file="Steinadler_S1_u_j" />
+        <feder name="S" geschlecht="u" juvenil="i" groesse="40" file="Steinadler_S_u_i" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="40" file="Steinadler_Sa_u" />
+      </vogel>
+      <vogel de="Zwergadler" fr="Aigle botté" en="Booted Eagle" la="Hieraaetus pennatus" fundort="Tujereng&amp; Peter Bürki" land="GM &amp; CH" jahreszeit="W" brutin="PT" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="30" file="Zwergadler_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="25" file="Zwergadler_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Zwergadler_AS_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="25" file="Zwergadler_Sa_u_j" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="20" file="Zwergadler_Ruecken_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="15" file="Zwergadler_HD_u" />
+      </vogel>
+      <vogel de="Schlangenadler" fr="Circaète Jean-le-Blanc" en="Short-toed Eagle" la="Circaetus gallicus" fundort="Marrakesh &amp; Joal" land="MA &amp; SN" jahreszeit="SH" brutin="FR" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="30" file="Schlangenadler_AS_u" />
+        <feder name="USD" geschlecht="u" groesse="20" file="Schlangenadler_USD_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="30" file="Schlangenadler_ASi_u" />
+      </vogel>
+      <vogel de="Seeadler" fr="Pygargue à queue blanche" en="White-tailed Eagle" la="Haliaeetus albicilla" fundort="Zoo La Garenne, Vd" land="CH" jahreszeit="S" brutin="PL &amp; RU" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="30" file="Seeadler_S_u" />
+        <feder name="gHD" geschlecht="u" juvenil="n" groesse="25" file="Seeadler_gHd_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="40" file="Seeadler_ASa_u" />
+      </vogel>
+      <vogel de="Mäusebussard" fr="Buse variable" en="Common Buzzard" la="Buteo buteo" fundort="Gurten &amp; Längenberg BE;" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_ASa_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="15" file="Maeusebussard_Brust_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="15" file="Maeusebussard_Deckfeder_u" />
+        <feder name="HS11" geschlecht="u" juvenil="n" groesse="20" file="Maeusebussard_HS11_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_HS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="30" file="Maeusebussard_HSa_u" />
+        <feder name="S1 Variation" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_S1_Variation_u" />
+        <feder name="S1 Variation" geschlecht="u" juvenil="j" groesse="25" file="Maeusebussard_S1_Variation_u_j" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_S1_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_S6_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_S_u" />
+        <feder name="S" geschlecht="u" juvenil="j" groesse="25" file="Maeusebussard_S_u_j" />
+        <feder name="Si Variation" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_Si_Variation_u" />
+        <feder name="Si Variation" geschlecht="u" juvenil="j" groesse="25" file="Maeusebussard_Si_Variation_u_j" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="25" file="Maeusebussard_Si_u" />
+      </vogel>
+      <vogel de="Wespenbussard" fr="Bondrée apivore" en="Honey Buzzard" la="Pernis apivorus" fundort="Tierpark Bern BE &amp; Protaras; Bindehus Koeniz" land="CH &amp; CY" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="35" file="Wespenbussard_HS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="35" file="Wespenbussard_S_u" />
+        <feder name="HSi" geschlecht="u" juvenil="j" groesse="25" file="Wespenbussard_HSi_u_j" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="25" file="Wespenbussard_S1_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="25" file="Wespenbussard_Si_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Wespenbussard_AS_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="15" file="Wespenbussard_HD_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="20" file="Wespenbussard_Schirm_u" />
+      </vogel>
+      <vogel de="Sperberbussard" fr="Buse unibande" en="Lizard Buzzard" la="Kaupifalco monogrammicus" fundort="Madiana" land="GM" jahreszeit="H" brutin="GM" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Sperberbussard_HS_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Sperberbussard_Sa_u" />
+        <feder name="HSa" geschlecht="u" juvenil="j" groesse="20" file="Sperberbussard_HSa_u" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Sperberbussard_S1_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Sperberbussard_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Sperberbussard_ASa_u" />
+      </vogel>
+    </familie>
+    <familie de="Fischadler" fr="Pandionidés" en="Pandionidae" la="Pandionidae" id="Pandionidae">
+      <vogel de="Fischadler" fr="Balbuzard pêcheur" en="Osprey" la="Pandion haliaetus" fundort="Western Division" land="GM" jahreszeit="FH" brutin="SE &amp; RU" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Fischadler_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="25" file="Fischadler_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Fischadler_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="25" file="Fischadler_S_u" />
+      </vogel>
+    </familie>
+    <familie de="Falkenartige" fr="Falconidés" en="Falconidae" la="Falconidae" id="Falconidae">
+      <vogel de="Merlin" fr="Faucon émerillon" en="Merlin" la="Falco columbarius" brutin="FI" fundort="Peter Buerki" jahreszeit="W" land="CH" orientierung="H">
+        <feder file="Merlin_AS_u" geschlecht="u" groesse="10" name="AS" />
+        <feder file="Merlin_AS_w" geschlecht="w" groesse="15" name="AS" />
+        <feder file="Merlin_HSa_m_j" geschlecht="m" juvenil="j" groesse="20" name="HSa" />
+      </vogel>
+      <vogel de="Wanderfalke" fr="Faucon pèlerin" en="Peregrine" la="Falco peregrinus" fundort="Gutenbruennen; Geismehfluh, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="w" juvenil="n" groesse="20" file="Wanderfalke_S1_w" />
+        <feder name="Sa" geschlecht="w" juvenil="n" groesse="20" file="Wanderfalke_Sa_w" />
+        <feder name="HSa" geschlecht="w" juvenil="n" groesse="20" file="Wanderfalke_HSa_w" />
+        <feder name="ASa" geschlecht="w" juvenil="n" groesse="20" file="Wanderfalke_ASa_w" />
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="20" file="Wanderfalke_S1_m" />
+        <feder name="S6" geschlecht="m" juvenil="n" groesse="20" file="Wanderfalke_S6_m" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="20" file="Wanderfalke_HSa_m" />
+        <feder name="HS10" geschlecht="m" juvenil="n" groesse="20" file="Wanderfalke_HS10_m" />
+        <feder name="ASa" geschlecht="m" juvenil="n" groesse="20" file="Wanderfalke_ASa_m" />
+        <feder name="Sa" geschlecht="w" juvenil="j" groesse="20" file="Wanderfalke_Sa_w_j" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="10" file="Wanderfalke_Brust_u" />
+      </vogel>
+      <vogel de="Rotfussfalke" fr="Faucon kobez" en="Red-footed Falcon" la="Falco vespertinus" fundort="Debrecen &amp;Halfsaltlake" land="HU&amp; RS" jahreszeit="S" brutin="HU" orientierung="H">
+        <feder name="HS" geschlecht="m" juvenil="i" groesse="20" file="Rotfussfalke_HS_m_i" />
+        <feder name="S" geschlecht="w" juvenil="n" groesse="15" file="Rotfussfalke_S_w" />
+        <feder name="HSi" geschlecht="u" juvenil="j" groesse="15" file="Rotfussfalke_HSi_u_j" />
+        <feder name="AS" geschlecht="u" juvenil="j" groesse="10" file="Rotfussfalke_AS_u_j" />
+      </vogel>
+      <vogel de="Lannerfalke" fr="Faucon lanier" en="Lanner" la="Falco biarmicus" fundort="W.Dieth, Vogelpfleger" land="CH" jahreszeit="S" brutin="IT &amp; MA" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Lannerfalke_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Lannerfalke_AS_u" />
+      </vogel>
+      <vogel de="Baumfalke" fr="Faucon hobereau" en="Hobby" la="Falco subbuteo" fundort="Tierpark &amp; Sense BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Baumfalke_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="20" file="Baumfalke_ASa_u" />
+        <feder name="AS" geschlecht="u" juvenil="j" groesse="10" file="Baumfalke_AS_u_j" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Baumfalke_S_u" />
+      </vogel>
+      <vogel de="Würgfalke" fr="Faucon sacre" en="Saker" la="Falco cherrug" fundort="Hortobagy Puszta &amp; Falkner, Tessin" land="HU &amp; CH" jahreszeit="S" brutin="HU" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Wuergfalke_HS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="20" file="Wuergfalke_gAD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Wuergfalke_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="25" file="Wuergfalke_S_u" />
+      </vogel>
+      <vogel de="Turmfalke" fr="Faucon crécerelle" en="Kestrel" la="Falco tinnunculus" fundort="Belpmoos, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="Si" geschlecht="m" juvenil="n" groesse="20" file="Turmfalke_Si_m" />
+        <feder name="S6" geschlecht="m" juvenil="n" groesse="20" file="Turmfalke_S6_m" />
+        <feder name="HS10" geschlecht="m" juvenil="n" groesse="20" file="Turmfalke_HS10_m" />
+        <feder name="HSi" geschlecht="m" juvenil="n" groesse="20" file="Turmfalke_HSi_m" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="20" file="Turmfalke_AS_m" />
+        <feder name="S" geschlecht="w" juvenil="n" groesse="20" file="Turmfalke_S_w" />
+        <feder name="HS10" geschlecht="w" juvenil="n" groesse="25" file="Turmfalke_HS10_w" />
+        <feder name="HS" geschlecht="w" juvenil="n" groesse="25" file="Turmfalke_HS_w" />
+        <feder name="HSi" geschlecht="w" juvenil="n" groesse="20" file="Turmfalke_HSi_w" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="20" file="Turmfalke_AS_w" />
+        <feder name="gAD" geschlecht="w" juvenil="n" groesse="10" file="Turmfalke_gAD_w" />
+      </vogel>
+      <vogel de="Rötelfalke" fr="Faucon crécerellette" en="Lesser Kestrel" la="Falco naumanni" fundort="Kaolack; Südspanien von Toni Fankhauser" land="SN" jahreszeit="W" brutin="I, E" orientierung="Q">
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="15" file="Roetelfalke_AS_m" />
+        <feder name="AS" geschlecht="w" juvenil="n" groesse="15" file="Roetelfalke_AS_w" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Roetelfalke_HS10_u" />
+        <feder name="HS10" geschlecht="w" juvenil="n" groesse="20" file="Roetelfalke_HS10_w" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Roetelfalke_HSi_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Roetelfalke_S_u" />
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="20" file="Roetelfalke_S1_m" />
+        <feder name="S1" geschlecht="w" juvenil="n" groesse="20" file="Roetelfalke_S1_w" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Roetelfalke_Sa_u" />
+        <feder name="Schirm" geschlecht="m" juvenil="n" groesse="10" file="Roetelfalke_Schirm_m" />
+        <feder name="Schirm" geschlecht="w" juvenil="n" groesse="10" file="Roetelfalke_Schirm_w" />
+        <feder name="Unterfluegel" geschlecht="u" juvenil="n" groesse="10" file="Roetelfalke_Unterfluegel_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Kranichvögel" fr="Gruiformes" en="Gruiformes" la="Gruiformes" id="Gruiformes">
+    <familie de="Kraniche" fr="Gruidés" en="Gruidae" la="Gruidae" id="Gruidae">
+      <vogel de="Kranich" fr="Grue cendrée" en="Common Crane" la="Grus grus" brutin="Skandinavien" fundort="Hortobagy&amp;Woivodina" land="HU&amp;RS" jahreszeit="HW" orientierung="H">
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="30" file="Kranich_Schirm_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Kranich_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Kranich_AS_u" />
+        <feder name="Schmuckfeder" geschlecht="u" juvenil="n" groesse="30" file="Kranich_Schmuckfeder_u" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="25" file="Kranich_Ruecken_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="15" file="Kranich_Alula_u" />
+      </vogel>
+    </familie>
+    <familie de="Rallenvögel" fr="Rallidés" en="Rallidae" la="Rallidae" id="Rallidae">
+      <vogel de="Blässhuhn" fr="Foulque macroule" en="Coot" la="Fulica atra" fundort="Nyon Vd" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Blaesshuhn_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Blaesshuhn_AS_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="15" file="Blaesshuhn_Alula_u" />
+      </vogel>
+      <vogel de="Teichhuhn" fr="Poule d 'eau" en="Moorhen" la="Gallinula chloropus" fundort="Bolle di Magadino Ti" land="CH" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Teichhuhn_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Teichhuhn_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Teichhuhn_ASa_u" />
+      </vogel>
+      <vogel de="Wasserralle" fr="Râle d'eau" en="Water Rail" la="Rallus aquaticus" fundort="Yverdon Vd &amp; Nordserbien" land="CH &amp; Serbien" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Wasserralle_HS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Wasserralle_Schirm_u" />
+        <feder name="Flanke" geschlecht="u" juvenil="n" groesse="5" file="Wasserralle_Flanke_u" />
+      </vogel>
+    </familie>
+    <familie de="Trappen" fr="Otididés" en="Otididae" la="Otididae" id="Otididae">
+      <vogel de="Grosstrappe" fr="Outarde barbue" en="Great Bustard" la="Otis tarda" fundort="Extremadura" land="ES" jahreszeit="W" brutin="ES &amp; HU" orientierung="H">
+        <feder name="Si" geschlecht="w" juvenil="n" groesse="25" file="Grosstrappe_Si_w" />
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="35" file="Grosstrappe_AS_m" />
+        <feder name="OSD" geschlecht="u" juvenil="n" groesse="15" file="Grosstrappe_OSD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="30" file="Grosstrappe_AS_u" />
+      </vogel>
+      <vogel de="Zwergtrappe" fr="Outarde canepetière" en="Little Bustard" la="Tetrax tetrax" fundort="Extremadura" land="ES" jahreszeit="H" brutin="ES" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Zwergtrappe_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Zwergtrappe_AS_u" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="10" file="Zwergtrappe_Ruecken_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="10" file="Zwergtrappe_Alula_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Schreitvögel" fr="Ciconiiformes" en="Ciconiiformes" la="Ciconiiformes" id="Ciconiiformes">
+    <familie de="Reiher" fr="Ardeidés" en="Ardeidae" la="Ardeidae" id="Ardeidae">
+      <vogel de="Graureiher" fr="Héron cendré" en="Grey Heron" la="ardea cinerea" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Graureiher_Sa_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="40" file="Graureiher_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="40" file="Graureiher_HS_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="25" file="Graureiher_Ruecken_u" />
+        <feder name="Schmuckfeder" geschlecht="u" juvenil="n" groesse="10" file="Graureiher_Schmuckfeder_u" />
+      </vogel>
+      <vogel de="Seidenreiher" fr="Aigrette garzette" en="Little Egret" la="Egretta garzetta" fundort="Pirang &amp; Nordserbien" land="GM &amp; RS" jahreszeit="F" brutin="RS &amp;FR" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Seidenreiher_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Seidenreiher_AS_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="20" file="Seidenreiher_Rücken_u" />
+      </vogel>
+      <vogel de="Rallenreiher" fr="Crabier chevelu" en="Squacco Heron" la="Ardeola ralloides" fundort="Tujereng" land="GM" jahreszeit="H" brutin="Südeuropa" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Rallenreiher_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Rallenreiher_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Rallenreiher_S_u" />
+        <feder name="Hals" geschlecht="u" juvenil="n" groesse="10" file="Rallenreiher_Hals_u" />
+      </vogel>
+      <vogel de="Mangrovenreiher" fr="Héron à dos vert" en="Striated Heron" la="Butorides striatus" brutin="GM&amp;SN" fundort="Pirang&amp;Papiliorama" land="GM&amp;CH" jahreszeit="F" orientierung="Q">
+        <feder name="HS_u" geschlecht="u" juvenil="n" groesse="15" file="Mangrovenreiher_HS_u" />
+        <feder name="ASi" geschlecht="u" juvenil="j" groesse="15" file="Mangrovenreiher_ASi_u_juv" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Mangrovenreiher_ASa_u" />
+        <feder name="gAD" geschlecht="u" juvenil="j" groesse="10" file="Mangrovenreiher_gAD_u_juv" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="10" file="Mangrovenreiher_gAD_u" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="10" file="Mangrovenreiher_Ruecken_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Mangrovenreiher_S_u" />
+      </vogel>
+      <vogel de="Nachtreiher" fr="Bihoreau gris" en="Night Heron" la="Nycticorax nycticorax" fundort="Basse &amp;Joal" land="GM &amp; SE" jahreszeit="H" brutin="FR &amp;GM" orientierung="Q">
+        <feder name="HSi" geschlecht="u" juvenil="j" groesse="20" file="Nachtreiher_HSi_u_j" />
+        <feder name="ASa" geschlecht="u" juvenil="j" groesse="20" file="Nachtreiher_ASa_u_j" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Nachtreiher_AS_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="20" file="Nachtreiher_Deckfeder_u" />
+        <feder name="gAD" geschlecht="u" juvenil="j" groesse="10" file="Nachtreiher_gAD_u_j" />
+        <feder name="Kopf" geschlecht="u" juvenil="n" groesse="20" file="Nachtreiher_Kopf_u" />
+        <feder name="S2" geschlecht="u" juvenil="n" groesse="15" file="Nachtreiher_S2_u" />
+      </vogel>
+      <vogel de="Silberreiher" fr="Grande Aigrette" en="Great white Egret" la="Egretta alba" fundort="Yverdon &amp; Tendaba" land="CH &amp; GM" jahreszeit="H" brutin="Osteuropa" orientierung="H">
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="25" file="Silberreiher_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Silberreiher_AS_u" />
+      </vogel>
+      <vogel de="Purpurreiher" fr="Héron pourpré" en="Purple Heron" la="Ardea purpurea" fundort="Nordserbien&amp;Tanjie" land="RS&amp;GM" jahreszeit="S" brutin="FR" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Purpurreiher_HS_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="15" file="Purpurreiher_Ruecken_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="15" file="Purpurreiher_gAD_u" />
+      </vogel>
+      <vogel de="Zwergdommel" fr="Blongios nain" en="Little Bittern" la="Ixobrychus minutus" fundort="Nordserbien" land="RS" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Zwergdommel_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Zwergdommel_AS_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="5" file="Zwergdommel_Brust_u" />
+        <feder name="AD" geschlecht="u" juvenil="n" groesse="5" file="Zwergdommel_AD_u" />
+      </vogel>
+      <vogel de="Rohrdommel" fr="Butor étoilé" en="Great Bittern" la="Botaurus stellaris" fundort="Hortobagy Puszta &amp; Nordserbien" land="HU &amp; RS" jahreszeit="W" brutin="ES &amp; UA" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Rohrdommel_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Rohrdommel_HS_u" />
+        <feder name="gAD" geschlecht="u" juvenil="n" groesse="20" file="Rohrdommel_gAD_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="15" file="Rohrdommel_Ruecken_u" />
+      </vogel>
+    </familie>
+    <familie de="Störche" fr="Ciconiidés" en="Ciconiidae" la="Ciconiidae" id="Ciconiidae">
+      <vogel de="Weissstorch" fr="Cigogne blanche" en="White Stork" la="Ciconia ciconia" fundort="Altreu &amp; Tierpark Bern" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="40" file="Weissstorch_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="25" file="Weissstorch_Schirm_u" />
+        <feder name="gHD" geschlecht="u" juvenil="n" groesse="20" file="Weissstorch_gHD_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="15" file="Weissstorch_Deckfeder_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="25" file="Weissstorch_S_u" />
+      </vogel>
+      <vogel de="Schwarzstorch" fr="Cigogne noire" en="Black Stork" la="Ciconia nigra" fundort="Tierpark Bern" land="CH" jahreszeit="S" brutin="ES" orientierung="H">
+        <feder name="ASa" geschlecht="u" juvenil="j" groesse="30" file="Schwarzstorch_ASa_u_j" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Schwarzstorch_AS_u" />
+        <feder name="Brust" geschlecht="u" juvenil="n" groesse="10" file="Schwarzstorch_Brust_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="25" file="Schwarzstorch_Sa_u" />
+      </vogel>
+    </familie>
+    <familie de="Ibisse Loeffler" fr="Threskiornitidae" en="Threskiornitidae" la="Threskiornitidae" id="Threskiornitidae">
+      <vogel de="Sichler" fr="Ibis falcinelle" en="Glossy Ibis" la="Plegadis falcinellus" fundort="Zoo München" land="DE" jahreszeit="H" brutin=" Suedosteuropa" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Sichler_AS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Sichler_HSa_u" />
+        <feder name="Ruecken" geschlecht="u" juvenil="n" groesse="15" file="Sichler_Ruecken_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="15" file="Sichler_Deckfeder_u" />
+      </vogel>
+      <vogel de="Loeffler" fr="Spatule blanche" en="Eurasian Spoonbill" la="Plattalea leucorodia" fundort="Zoo Zürich &amp; Voivodina" land="CH &amp; RS" jahreszeit="H" brutin="E &amp; Suedosteuropa" orientierung="H">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="30" file="Loeffler_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Loeffler_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Loeffler_S_u" />
+        <feder name="Unterfluegel" geschlecht="u" juvenil="n" groesse="15" file="Loeffler_Unterfluegel_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Roehrennasen" fr="Procellariiformes" en="Procellariiformes" la="Procellariiformes" id="Procellariiformes">
+    <familie de="Sturmvoegel" fr="Procellariidae" en="Procellariidae" la="Procellariidae" id="Procellariidae">
+      <vogel de="Bulwersturmvogel" fr="Pétrel de Bulwer" en="Bulwers Petrel" la="Bulveria bulverii" fundort="Azoren" land="PT" jahreszeit="S" brutin="E" orientierung="Q">
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Bulwersturmvogel_HSi_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Bulwersturmvogel_HSa_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="10" file="Bulwersturmvogel_HD_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Flamingos" fr="Phoenicopteriformes" en="Phoenicopteriformes" la="Phoenicopteriformes" id="Phoenicopteriformes">
+    <familie de="Flamingos" fr="Phoenicopteridés" en="Phoenicopteridae" la="Phoenicopteridae" id="Phoenicopteridae">
+      <vogel de="Rosaflamingo" fr="Flamant rose" en="Greater Flamingo" la="Phoenicopterus ruber" fundort="Tierpark Bern" land="CH" jahreszeit="S" brutin="FR" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Rosaflamingo_HS_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="25" file="Rosaflamingo_Ruecken_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Rosaflamingo_AS_u" />
+        <feder name="Unterflügel" geschlecht="u" juvenil="n" groesse="20" file="Rosaflamingo_Unterfluegel_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Lappentaucher" fr="Podicipediformes" en="Podicipediformes" la="Podicipediformes" id="Podicipediformes">
+    <familie de="Lappentaucher" fr="Podicipedidés" en="Podicipedidae" la="Podicipedidae" id="Podicipedidae">
+      <vogel de="Haubentaucher" fr="Grèbe huppé" en="Great Crested Grebe" la="Podiceps cristatus" fundort="Biel BE" land="CH" jahreszeit="SH" brutin="CH" orientierung="H">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Haubentaucher_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Haubentaucher_HSi_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="15" file="Haubentaucher_ASi_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="15" file="Haubentaucher_Ruecken_u" />
+      </vogel>
+      <vogel de="Zwergtaucher" fr="Grèbe castagneux" en="Little Grebe" la="Tachybaptus ruficollis" fundort="Präparat Bern" land="CH" jahreszeit="F" brutin="CH" orientierung="Q">
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Zwergtaucher_HSi_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Zwergtaucher_HSa_u" />
+        <feder name="gHD" geschlecht="u" juvenil="n" groesse="5" file="Zwergtaucher_gHD_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Zwergtaucher_AS_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Regenpfeiferartige" fr="Charadriiformes" en="Charadriiformes" la="Charadriiformes" id="Charadriiformes">
+    <familie de="Möwen" fr="Laridés" en="Laridae" la="Laridae" id="Laridae">
+      <vogel de="Lachmöwe" fr="Mouette rieuse" en="Black-headed Gull" la="Larus ridibundus" fundort="Nyon Vd" land="CH" jahreszeit="S" brutin="CH" orientierung="H">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Lachmoewe_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Lachmoewe_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Lachmoewe_HS_u" />
+        <feder name="S" geschlecht="u" juvenil="j" groesse="15" file="Lachmoewe_S_u_j" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Lachmoewe_AS_u" />
+      </vogel>
+      <vogel de="Mittelmeermöwe" fr="Goéland leucophée" en="Yellow-legged Gull" la="Larus michahellis" fundort="Nyon Vd" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Mittelmeermoewe_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Mittelmeermoewe_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Mittelmeermoewe_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Mittelmeermoewe_AS_u" />
+      </vogel>
+      <vogel de="Zwergmöwe" fr="Mouette pygmée" en="Little Gull" la="Larus minutus" fundort="Ostsee" land="DE" jahreszeit="S" brutin="PL" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Zwergmoewe_AS_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="10" file="Zwergrmoewe_HD_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Zwergmoewe_HS_u" />
+      </vogel>
+    </familie>
+    <familie de="Seeschwalben" fr="Sternidés" en="Sternidae" la="Sternidae" id="Sternidae">
+      <vogel de="Flussseeschwalbe" fr="Sterne pierregarin" en="Common tern" la="Sterna hirundo" fundort="Yverdon Vd &amp;Tujereng" land="CH &amp; GM" jahreszeit="SW" brutin="CH" orientierung="Q">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="15" file="Flussseeschwalbe_Sa_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Flussseeschwalbe_HSa_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Flussseeschwalbe_HS10_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Flussseeschwalbe_HSi_u" />
+      </vogel>
+      <vogel de="Kuestenseeschwalbe" fr="Sterne arctique" en="Arctic tern" la="Sterna paradisaea" fundort="Tierpark Bern BE" land="CH" jahreszeit="F" brutin="NO" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Kuestenseeschwalbe_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Kuestenseeschwalbe_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Kuestenseeschwalbe_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Kuestenseeschwalbe_AS_u" />
+      </vogel>
+      <vogel de="Zwergseeschwalbe" fr="Sterne naine" en="Little tern" la="Sterna albifrons" fundort="Tanjie" land="GM" jahreszeit="F" brutin="FR" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Zwergseeschwalbe_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Zwergseeschwalbe_HSa_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Zwergseeschwalbe_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Zwergseeschwalbe_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Zwergseeschwalbe_AS_u" />
+      </vogel>
+      <vogel de="Raubseeschwalbe" fr="Sterne caspienne" en="Caspian Tern" la="Sterna caspia" brutin="SE&amp;GM" fundort="Tanjie" jahreszeit="F" land="GM" orientierung="H">
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Raubseeschwalbe_ASa_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="30" file="Raubseeschwalbe_HS10_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="20" file="Raubseeschwalbe_HSi_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Raubseeschwalbe_Sa_u" />
+      </vogel>
+      <vogel de="Königsseeschwalbe" fr="Sterne royale" en="royal Tern" la="Sterna maxima" brutin="Suedatlantik" fundort="Tanjie" jahreszeit="F" land="GM" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Koenigsseeschwalbe_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Koenigsseeschwalbe_HS_u" />
+        <feder name="HSa" geschlecht="u" juvenil="j" groesse="25" file="Koenigsseeschwalbe_HSa_j_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="20" file="Koenigsseeschwalbe_HSi_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="15" file="Koenigsseeschwalbe_Sa_u" />
+      </vogel>
+    </familie>
+    <familie de="Alke" fr="Alcidés" en="Alcidae" la="Alcidae" id="Alcidae">
+      <vogel de="Papageitaucher" fr="Macareux moine" en="Atlantic Puffin" la="Fratercula arctica" fundort="Tierpark Bern" land="CH" jahreszeit="F" brutin="IE u.a." orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="j" groesse="10" file="Papageitaucher_HS_u_j" />
+        <feder name="HD" geschlecht="u" juvenil="j" groesse="10" file="Papageitaucher_HD_u_j" />
+        <feder name="Rücken" geschlecht="u" juvenil="j" groesse="10" file="Papageitaucher_Ruecken_u_j" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Papageitaucher_HSa_u" />
+      </vogel>
+    </familie>
+    <familie de="Austernfischer" fr="Haematopodidés" en="Haematopodidae" la="Haematopodidae" id="Haematopodidae">
+      <vogel de="Austernfischer" fr="Huîtrier pie" en="Oystercatcher" la="Haematopus ostralegus" fundort="Nordsee" land="DE" jahreszeit="S" brutin="DE &amp; UK" orientierung="Q">
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="15" file="Austernfischer_Sa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="20" file="Austernfischer_HSi_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Austernfischer_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Austernfischer_AS_u" />
+      </vogel>
+    </familie>
+    <familie de="Saebelschnaebler" fr="Avocettes" en="Avocets" la="Recurvirostridae" id="Recurvirostridae">
+      <vogel de="Saebelschnaebler" fr="Avocette élégante" en="Pied Avocet" la="Recurvirostra avosetta" fundort="Tierpark Bern" land="DE" jahreszeit="S" brutin="FR ua" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Saebelschnaebler_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Saebelschnaebler_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Saebelschnaebler_AS_u" />
+      </vogel>
+      <vogel de="Stelzenlaeufer" fr="Echasse blanche" en="Black-Winged Stilt" la="Himantopus himantopus" brutin="FR,RS" fundort="Temerin" land="RS" jahreszeit="S" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Stelzenlaeufer_HS_u" />
+      </vogel>
+    </familie>
+    <familie de="Regenpfeifer" fr="Charadriidés" en="Charadriidae" la="Charadriidae" id="Charadriidae">
+      <vogel de="Kiebitz" fr="Vanneau huppé" en="Lapwing" la="Vanellus vanellus" fundort="Langeoog &amp; Biebrza" land="DE &amp; PL" jahreszeit="HW" brutin="CH" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Kiebitz_HSa_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="15" file="Kiebitz_Si_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="15" file="Kiebitz_Sa_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Kiebitz_Schirm_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Kiebitz_AS_u" />
+      </vogel>
+      <vogel de="Spornkiebitz" fr="Vanneau éperonné" en="Spur-winged Plover" la="Vanellus spinosus" fundort="Kololi" land="GM" jahreszeit="F" brutin="GM" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Spornkiebitz_HS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Spornkiebitz_S_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Spornkiebitz_ASa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Spornkiebitz_HSi_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="15" file="Spornkiebitz_ASi_u" />
+      </vogel>
+      <vogel de="Kiebitzregenpfeifer" fr="Pluvier argenté" en="Grey Plover" la="Pluvialis squatarola" fundort="Western Division" land="GM" jahreszeit="H" brutin="RU" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Kiebitzregenpfeifer_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Kiebitzregenpfeifer_HSi_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Kiebitzregenpfeifer_Schirm_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Kiebitzregenpfeifer_AS_u" />
+        <feder name="S5" geschlecht="u" juvenil="n" groesse="10" file="Kiebitzregenpfeifer_S5_u" />
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="10" file="Kiebitzregenpfeifer_S1_u" />
+      </vogel>
+      <vogel de="Goldregenpfeifer" fr="Pluvier doré" en="Golden Plover" la="Pluvialis apricaria" fundort=" Cota Donana" land="ES" jahreszeit="W" brutin="Skandinavien" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Goldregenpfeifer_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Goldregenpfeifer_HSi_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Goldregenpfeifer_S_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Goldregenpfeifer_Schirm_u" />
+      </vogel>
+      <vogel de="Flussregenpfeifer" fr="Petit Gravelot" en="Little ringed Plover" la="Charadrius dubius" fundort=" Yverdon&amp;von David" land="CH&amp;FR" jahreszeit="S" brutin="Q" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Flussregenpfeifer_AS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Flussregenpfeifer_HSi_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Flussregenpfeifer_Sa_u" />
+      </vogel>
+    </familie>
+    <familie de="Schnepfenvögel" fr="Scolopacidés" en="Scolopacidae" la="Scolopacidae" id="Scolopacidae">
+      <vogel de="Steinwälzer" fr="Tournepierre à collier" en="Turnstone" la="arenaria interpres" fundort="Western Division" land="GM" jahreszeit="F" brutin="NO &amp; FI" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Steinwaelzer_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Steinwaelzer_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Steinwaelzer_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Steinwaelzer_Schirm_u" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="10" file="Steinwaelzer_Sa_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Steinwaelzer_Si_u" />
+      </vogel>
+      <vogel de="Uferschnepfe" fr="Barge à queue noire" en="Black-tailed Godwit" la="Limosa limosa" fundort="Südwestspanien" land="ES" jahreszeit="W" brutin="DE &amp; RU" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Uferschnepfe_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Uferschnepfe_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Uferschnepfe_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="10" file="Uferschnepfe_ASa_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Uferschnepfe_Si_u" />
+      </vogel>
+      <vogel de="Pfuhlschnepfe" fr="Barge rousse" en="Bar-tailed Godwit" la="Limosa lapponica" fundort="Tanjie" land="GM" jahreszeit="W" brutin="NO" orientierung="Q">
+        <feder name="Gefieder" geschlecht="u" juvenil="n" groesse="30" file="Pfuhlschnepfe_Gefieder_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Pfuhlschnepfe_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Pfuhlschnepfe_HSi_u" />
+        <feder name="Alula" geschlecht="u" juvenil="n" groesse="5" file="Pfuhlschnepfe_Alula_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="15" file="Pfuhlschnepfe_Si_u" />
+      </vogel>
+      <vogel de="Sanderling" fr="Bécasseau sanderling" en="Sanderling" la="Calidris alba" fundort="Tanjie" land="GM" jahreszeit="H" brutin="GL &amp; NO" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Sanderling_HS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Sanderling_Schirm_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Sanderling_AS_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Sanderling_Si_u" />
+      </vogel>
+      <vogel de="Alpenstrandlaeufer" fr="Bécasseau variable" en="Dunlin" la="Calidris alpina" fundort="von Célian" land="CH" jahreszeit="S" brutin="NO" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Alpenstrandlaeufer_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Alpenstrandlaeufer_HSi_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="5" file="Alpenstrandlaeufer_Schirm_u" />
+      </vogel>
+      <vogel de="Grosser Brachvogel" fr="Courlis cendré" en="Curlew" la="Numenius arquata" fundort="Dingle" land="IE" jahreszeit="S" brutin="GB &amp; RU" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="25" file="Grosser_Brachvogel_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Grosser_Brachvogel_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Grosser_Brachvogel_S_u" />
+      </vogel>
+      <vogel de="Regenbrachvogel" fr="Courlis courlieu" en="Whimbrel" la="Numenius phaeopus" fundort="Tanjie" land="GM" jahreszeit="F" brutin="IS" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="15" file="Regenbrachvogel_S1_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="15" file="Regenbrachvogel_S6_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="15" file="Regenbrachvogel_Schirm_u" />
+        <feder name="HS10" geschlecht="u" juvenil="n" groesse="20" file="Regenbrachvogel_HS10_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Regenbrachvogel_HS_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Regenbrachvogel_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Regenbrachvogel_AS_u" />
+      </vogel>
+      <vogel de="Rotschenkel" fr="Chevalier gambette" en="Redshank" la="Tringa totanus" fundort="Bretagne" land="FR" jahreszeit="H" brutin="FR &amp; PL" orientierung="Q">
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Rotschenkel_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Rotschenkel_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Rotschenkel_S_u" />
+      </vogel>
+      <vogel de="Waldschnepfe" fr="Bécasse des bois" en="Woodcock" la="Scolopax rusticola" fundort="Brieve, Dordogne" land="FR" jahreszeit="H" brutin="CH" orientierung="Q">
+        <feder name="Schwanz" geschlecht="u" juvenil="n" groesse="30" file="Waldschnepfe_Schwanz_u" />
+        <feder name="S5" geschlecht="u" juvenil="n" groesse="10" file="Waldschnepfe_S5_u" />
+        <feder name="S5" geschlecht="u" juvenil="n" groesse="10" file="Waldschnepfe_S5_von_Unten_u">
+          <text lang="de">Unterseite der Feder</text>
+          <text lang="fr">Partie inférieure de la plume</text>
+          <text lang="en">Backside of the feather</text>
+        </feder>
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Waldschnepfe_HS_u" />
+        <feder name="Gefieder" geschlecht="u" juvenil="n" groesse="30" file="Waldschnepfe_Gefieder_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Waldschnepfe_AS_u" />
+      </vogel>
+      <vogel de="Flussuferlaeufer" fr="Chevalier guignette" en="Common Sandpiper" la="Actitis hypoleucos" brutin="Ch" fundort="Peter Bue rki&amp;Tanjie" jahreszeit="W" land="CH&amp;GM" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Flussuferlaeufer_S_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Flussuferlaeufer_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="10" file="Flussuferlaeufer_HSi_u" />
+      </vogel>
+      <vogel de="Bekassine" fr="Bécassine des marais" en="Common Snipe" la="Gallinago gallinago" fundort="Kleinhöchstettenau, BE" land="CH" jahreszeit="H" brutin="CH" orientierung="Q">
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Bekassine_Si_u" />
+        <feder name="S6" geschlecht="u" juvenil="n" groesse="10" file="Bekassine_S6_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Bekassine_HSa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Bekassine_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Bekassine_Schirm_u" />
+      </vogel>
+      <vogel de="Zwergschnepfe" fr="Bécassine sourde" en="Jack Snipe" la="Lymnocryptes minimus" fundort="Voivodina" land="RS" jahreszeit="W" brutin="FI ua" orientierung="Q">
+        <feder name="S" geschlecht="u" juvenil="n" groesse="5" file="Zwergschnepfe_S_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="10" file="Zwergschnepfe_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Zwergschnepfe_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="5" file="Zwergschnepfe_Schirm_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+
+  <ordnung de="Gänsevögel" fr="Anseriformes" en="Anseriformes" la="Anseriformes" id="Anseriformes">
+    <familie de="Entenvögel" fr="Anatidés" en="Anatidae" la="Anatidae" id="Anatidae">
+      <vogel de="Graugans" fr="Oie cendrée" en="Greylag Goose" la="Anser anser" fundort="Tierpark Bern BE &amp; Hiddensee DE" land="CH&amp;DE" jahreszeit="S" brutin="NO" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="30" file="Graugans_H1_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="25" file="Graugans_HSi_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="20" file="Graugans_S_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="25" file="Graugans_AS_u" />
+        <feder name="HD" geschlecht="u" juvenil="n" groesse="20" file="Graugans_HD_u" />
+        <feder name="Deckfeder" geschlecht="u" juvenil="n" groesse="15" file="Graugans_Deckfeder_u" />
+      </vogel>
+      <vogel de="Stockente" fr="Canard colvert" en="Mallard" la="Anas platyrhynchos" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="10" file="Stockente_S1_m" />
+        <feder name="Sa" geschlecht="m" juvenil="n" groesse="10" file="Stockente_Sa_m" />
+        <feder name="Sa" geschlecht="w" juvenil="n" groesse="10" file="Stockente_Sa_w" />
+        <feder name="ASa" geschlecht="m" juvenil="n" groesse="15" file="Stockente_ASa_m" />
+        <feder name="ASa" geschlecht="w" juvenil="n" groesse="15" file="Stockente_ASa_w" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="15" file="Stockente_ASi_u" />
+        <feder name="ASi" geschlecht="u" juvenil="j" groesse="15" file="Stockente_ASi_u_j" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="25" file="Stockente_HSa_u" />
+      </vogel>
+      <vogel de="Mandarinente" fr="Canard mandarin" en="Mandarin Duck" la="Aix galericulata" fundort="Schwarzwasserbrücke" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="15" file="Mandarinente_AS_m" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="20" file="Mandarinente_HSa_m" />
+        <feder name="HSi" geschlecht="m" juvenil="n" groesse="15" file="Mandarinente_HSi_m" />
+        <feder name="S1" geschlecht="m" juvenil="n" groesse="15" file="Mandarinente_S1_m" />
+        <feder name="Schmuckfeder" geschlecht="m" juvenil="n" groesse="15" file="Mandarinente_Schmuckfeder_m" />
+      </vogel>
+      <vogel de="Schnatterente" fr="Canard chippeau" en="Gadwall" la="Anas strepera" fundort="Tierpark Goldau, Sz &amp; Fanel,BE" land="CH" jahreszeit="S" brutin="ES, UK &amp; RU" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Schnatterente_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Schnatterente_ASa_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Schnatterente_S_u" />
+      </vogel>
+      <vogel de="Spiessente" fr="Canard pilet" en="Pintail" la="Anas acuta" fundort="Zoo Muenchen" land="DE" jahreszeit="S" brutin="FI" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Spiessente_AS_u" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="30" file="Spiessente_HSa_m" />
+        <feder name="Schirm" geschlecht="m" juvenil="n" groesse="15" file="Spiessente_Schirm_m" />
+        <feder name="gAD" geschlecht="m" juvenil="n" groesse="10" file="Spiessente_gAD_m" />
+      </vogel>
+      <vogel de="Loeffelente" fr="Canard souchet" en="Shoveler" la="Anas clypeata" fundort="von Nekane, Zaragoza" land="E" jahreszeit="W" brutin="FI" orientierung="Q">
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="10" file="Loeffelente_AS_m" />
+        <feder name="HSa" geschlecht="m" juvenil="n" groesse="20" file="Loeffelente_HSa_m" />
+        <feder name="Schirm" geschlecht="m" juvenil="n" groesse="15" file="Loeffelente_Schirm_m" />
+        <feder name="Fluegeldeckfeder" geschlecht="m" juvenil="n" groesse="5" file="Loeffelente_Fluegeldeckfeder_m" />
+        <feder name="S" geschlecht="m" groesse="10" juvenil="n" file="Loeffelente_S_m" />
+        <feder name="Hals" geschlecht="m" groesse="5" juvenil="n" file="Loeffelente_Hals_m" />
+        <feder name="HSi" geschlecht="m" groesse="15" juvenil="n" file="Loeffelente_HSi_m" />
+        <feder name="Bauch" geschlecht="m" groesse="5" juvenil="n" file="Loeffelente_Bauch_m" />
+      </vogel>
+      <vogel de="Eiderente" fr="Eider à duvet" en="Common Eider" la="Somateria mollissima" fundort="Kopenhagen" land="DK" jahreszeit="S" brutin="SE,&amp; DK" orientierung="Q">
+        <feder name="AS" geschlecht="m" juvenil="n" groesse="20" file="Eiderente_AS_m" />
+        <feder name="Rücken" geschlecht="w" juvenil="n" groesse="10" file="Eiderente_Ruecken_w" />
+      </vogel>
+      <vogel de="Reiherente" fr="Fuligule Morillon" en="Tufted Duck" la="Aythya fuligula" fundort="Spiez, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Reiherente_HS_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Reiherente_AS_u" />
+        <feder name="Schirm" geschlecht="u" juvenil="n" groesse="10" file="Reiherente_Schirm_u" />
+        <feder name="Si" geschlecht="u" juvenil="n" groesse="10" file="Reiherente_Si_u" />
+      </vogel>
+      <vogel de="Schellente" fr="Garrot à oeil d 'or" en="Common Goldeneye" la="Bucephala clangula" fundort="von David Constance" land="FR" jahreszeit="W" brutin="CH" orientierung="Q">
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="15" file="Schellente_ASi_u" />
+        <feder name="gHD" geschlecht="u" juvenil="n" groesse="10" file="Schellente_gHD_u" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="20" file="Schellente_HSa_u" />
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Schellente_HSi_u" />
+      </vogel>
+      <vogel de="Kolbenente" fr="Nette rousse" en="Red-Crested Pochard" la="Netta rufina" fundort="Bielersee, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="15" file="Kolbenente_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="15" file="Kolbenente_ASa_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="15" file="Kolbenente_ASi_u" />
+      </vogel>
+      <vogel de="Tafelente" fr="Fuligule Milouin" en="Pochard" la="Aythya ferina" fundort="Bielersee, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="HSi" geschlecht="u" juvenil="n" groesse="15" file="Tafelente_HSi_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Tafelente_AS_u" />
+      </vogel>
+      <vogel de="Krickente" fr="Sarcelle d'hiver" en="Teal" la="Anas crecca" fundort="Bolle di Magadino, Ti" land="CH" jahreszeit="F" brutin="DE" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Krickente_AS_u" />
+        <feder name="ASi" geschlecht="u" juvenil="n" groesse="10" file="Krickente_ASi_u" />
+        <feder name="Schirm" geschlecht="m" juvenil="n" groesse="10" file="Krickente_Schirm_m" />
+        <feder name="Flanke" geschlecht="m" juvenil="n" groesse="5" file="Krickente_Flanke_m" />
+        <feder name="S" geschlecht="m" juvenil="n" groesse="10" file="Krickente_S_m" />
+        <feder name="HS" geschlecht="m" juvenil="n" groesse="15" file="Krickente_HS_m" />
+      </vogel>
+      <vogel de="Pfeifente" fr="Canard siffleur" en="Eurasian Wigeon" la="Anas penelope" fundort="Krümmi, Fr" land="CH" jahreszeit="W" brutin="SE" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="j" groesse="15" file="Pfeifente_AS_u_j" />
+        <feder name="ASa" geschlecht="u" juvenil="j" groesse="15" file="Pfeifente_ASa_u_j" />
+        <feder name="HS" geschlecht="u" juvenil="j" groesse="20" file="Pfeifkente_HS_u_j" />
+        <feder name="Ruecken" geschlecht="u" juvenil="j" groesse="10" file="Pfeifente_Ruecken_u_j" />
+        <feder name="gAD" geschlecht="u" juvenil="j" groesse="10" file="Pfeifente_gAD_u_j" />
+        <feder name="Koerperfeder" geschlecht="u" juvenil="j" groesse="10" file="Pfeifente_Koerperfeder_u_j" />
+      </vogel>
+      <vogel de="Knäkente" fr="Sarcelle d 'été" en="Garganey" la="Anas querquedula" fundort="Bolle di Magadino, Ti" land="CH" jahreszeit="F" brutin="DE" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="10" file="Knaekente_AS_u" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="10" file="Knaekente_S_u" />
+        <feder name="Schmuckfeder" geschlecht="m" juvenil="n" groesse="10" file="Knaekente_Schmuckfeder_m" />
+        <feder name="HSa" geschlecht="u" juvenil="n" groesse="15" file="Knaekente_HSa_u" />
+      </vogel>
+      <vogel de="Gänsesäger" fr="Harle bièvre" en="Goosander" la="Mergus merganser" fundort="Nyon Vd" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="15" file="Gaensesaeger_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Gaensesaeger_HS_u" />
+        <feder name="Schirm" geschlecht="w" juvenil="n" groesse="15" file="Gaensesaeger_Schirm_w" />
+        <feder name="S" geschlecht="u" juvenil="n" groesse="15" file="Gaensesaeger_S_u" />
+      </vogel>
+      <vogel de="Höckerschwan" fr="Cygne tuberculé" en="Mute Swan" la="Cygnus olor" fundort="Murten Fr" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="35" file="Hoeckerschwan_AS_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="35" file="Hoeckerschwan_HS_u" />
+        <feder name="HS" geschlecht="u" juvenil="j" groesse="40" file="Hoeckerschwan_HS_u_j" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Hoeckerschwan_Sa_u_" />
+      </vogel>
+    </familie>
+  </ordnung>
+  <ordnung de="Ruderfüsser" fr="Pelecaniformes" en="Pelecaniformes" la="Pelecaniformes" id="Pelecaniformes">
+    <familie de="Toelpel" fr="Sulidés" en="Sulidae" la="Sulidae" id="Sulidae">
+      <vogel de="Basstoelpel" fr="Fou de Bassan" en="Northern Gannet" la="Morus bassanus" fundort="Dakar &amp; Bretagne" land="SN &amp; FR" jahreszeit="F" brutin="GB &amp; FR" orientierung="H">
+        <feder name="HS" geschlecht="u" juvenil="j" groesse="30" file="Basstoelpel_HS_u_j" />
+        <feder name="HSi" geschlecht="u" juvenil="j" groesse="20" file="Basstoelpel_HSi_u_j" />
+        <feder name="Sa" geschlecht="u" juvenil="j" groesse="20" file="Basstoelpel_Sa_u_j" />
+        <feder name="Sa" geschlecht="u" juvenil="n" groesse="20" file="Basstoelpel_Sa_u" />
+        <feder name="AS" geschlecht="u" juvenil="n" groesse="20" file="Basstoelpel_AS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="20" file="Basstoelpel_ASa_u" />
+        <feder name="S1" geschlecht="u" juvenil="j" groesse="25" file="Basstoelpel_S1_u_j" />
+      </vogel>
+    </familie>
+    <familie de="Kormorane" fr="Phalacrocoracidés" en="Phalacrocoracidae" la="Phalacrocoracidae" id="Phalacrocoracidae">
+      <vogel de="Kormoran" fr="Grand Cormoran" en="Cormorant" la="Phalacrocorax carbo" fundort="Bern BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
+        <feder name="S1" geschlecht="u" juvenil="n" groesse="20" file="Kormoran_S1_u" />
+        <feder name="HS" geschlecht="u" juvenil="n" groesse="20" file="Kormoran_HS_u" />
+        <feder name="ASa" geschlecht="u" juvenil="n" groesse="20" file="Kormoran_ASa_u" />
+        <feder name="Rücken" geschlecht="u" juvenil="n" groesse="10" file="Kormoran_Ruecken_u" />
+      </vogel>
+    </familie>
+  </ordnung>
+</federn>
