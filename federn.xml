@@ -208,7 +208,7 @@
         <feder name="USD" geschlecht="u" juvenil="n" groesse="5" file="Teichrohrsaenger_USD_u" />
       </vogel>
 
-      <vogel de="Feldschwirl" fr="Locustelle tacheté" en="Grasshopper  Warbler" la="Locustella naevia" fundort="Präparat Schweiz" land="CH" jahreszeit="H" brutin="CH" orientierung="Q">
+      <vogel de="Feldschwirl" fr="Locustelle tacheté" en="Grasshopper  Warbler" la="Locustella naevia" fundort="Zollikofen, BE" land="CH" jahreszeit="S" brutin="CH" orientierung="Q">
         <feder name="HSa" geschlecht="u" juvenil="n" groesse="10" file="Feldschwirl_HSa_u" />
         <feder name="gAD" geschlecht="u" juvenil="n" groesse="5" file="Feldschwirl_gAD_u" />
         <feder name="AS" geschlecht="u" juvenil="n" groesse="5" file="Feldschwirl_AS_u" />
